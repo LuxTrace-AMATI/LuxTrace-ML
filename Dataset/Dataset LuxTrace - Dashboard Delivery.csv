@@ -1,0 +1,501 @@
+delivery_id,product_id,product_name,delivery_product_amount,delivery_courier,delivery_store_destination,delivery_distance,delivery_date,delivery_time,tracking_time,delivery_reception,delivery_status
+DL1,PRD1,Atlas Sneaker White,119,Kevin Akbar,Depok-Cimanggis-16452,18000,1/1/2023,1/1/2023 17:21:06,1/1/2023 19:49:51,1/1/2023 19:49:51,selesai
+DL2,PRD2,Atlas Sneaker White,117,Faisal Akbar,Jakarta-Kemang-12730,10000,1/1/2023,1/1/2023 16:34:55,1/1/2023 17:44:56,1/1/2023 17:44:56,selesai
+DL3,PRD3,Atlas Sneaker White,143,Faisal Akbar,Depok-Cimanggis-16452,18000,1/1/2023,1/1/2023 10:50:55,1/1/2023 12:38:06,12/30/1899 0:00:00,diperjalanan
+DL4,PRD4,Atlas Sneaker White,154,Putra Hadi,Jakarta-PasarMinggu-12520,15000,1/4/2023,1/4/2023 22:32:30,1/5/2023 0:53:00,1/5/2023 0:53:00,selesai
+DL5,PRD5,Saki Sneakers - Soybean,121,Deni Setiawan,Jakarta-PasarMinggu-12520,15000,1/5/2023,1/5/2023 17:12:18,1/5/2023 19:30:03,1/5/2023 19:30:03,selesai
+DL6,PRD6,Saki Sneakers - Soybean,136,Budi Hartono,Bogor-Baranangsiang-16143,30000,1/8/2023,1/8/2023 3:26:44,1/8/2023 4:49:17,12/30/1899 0:00:00,diperjalanan
+DL7,PRD7,Saki Sneakers - Soybean,177,Kevin Akbar,Bekasi-BekasiTimur-17113,20000,1/8/2023,1/8/2023 17:05:27,1/8/2023 20:04:23,1/8/2023 20:04:23,selesai
+DL8,PRD8,Saki Sneakers - Soybean,165,Citra Dewi,Bogor-Baranangsiang-16143,30000,1/8/2023,1/8/2023 11:54:52,1/8/2023 15:48:34,1/8/2023 15:48:34,selesai
+DL9,PRD9,Kotta Hybrid Sneakers - Skeleton,136,Citra Dewi,Jakarta-Kemang-12730,10000,1/9/2023,1/9/2023 5:28:16,1/9/2023 6:51:23,1/9/2023 6:51:23,selesai
+DL10,PRD10,Kotta Hybrid Sneakers - Skeleton,135,Kevin Akbar,Jakarta-Kemang-12730,10000,1/10/2023,1/10/2023 19:31:02,1/10/2023 20:46:21,1/10/2023 20:46:21,selesai
+DL11,PRD11,Kotta Hybrid Sneakers - Skeleton,105,Eka Putri,Jakarta-Kemang-12730,10000,1/10/2023,1/10/2023 6:27:54,1/10/2023 7:40:50,1/10/2023 7:40:50,selesai
+DL12,PRD12,Kotta Hybrid Sneakers - Skeleton,120,Adi Pratama,Jakarta-PasarMinggu-12520,15000,1/10/2023,1/10/2023 20:33:41,1/10/2023 23:01:38,1/10/2023 23:01:38,selesai
+DL13,PRD13,Tiga Slip-On Sneakers - Cerulean Blue,126,Eka Putri,Bogor-Baranangsiang-16143,30000,1/15/2023,1/15/2023 23:48:25,1/16/2023 0:14:14,12/30/1899 0:00:00,diperjalanan
+DL14,PRD14,Tiga Slip-On Sneakers - Cerulean Blue,100,Budi Hartono,Bogor-Baranangsiang-16143,30000,1/20/2023,1/20/2023 14:04:17,1/20/2023 17:49:17,1/20/2023 17:49:17,selesai
+DL15,PRD15,Tiga Slip-On Sneakers - Cerulean Blue,118,Citra Dewi,Bogor-Baranangsiang-16143,30000,1/22/2023,1/22/2023 7:32:35,1/22/2023 9:29:56,1/22/2023 9:29:56,selesai
+DL16,PRD16,Tiga Slip-On Sneakers - Cerulean Blue,133,Eka Putri,Jakarta-Kemang-12730,10000,1/25/2023,1/25/2023 14:46:17,1/25/2023 15:24:48,12/30/1899 0:00:00,diperjalanan
+DL17,PRD17,Kevinswork x Bluesville Sakka Batik,119,Eka Putri,Bogor-Baranangsiang-16143,30000,1/25/2023,1/25/2023 1:24:22,1/25/2023 5:10:43,1/25/2023 5:10:43,selesai
+DL18,PRD18,Kevinswork x Bluesville Sakka Batik,154,Faisal Akbar,Depok-Cimanggis-16452,18000,1/26/2023,1/26/2023 16:34:18,1/26/2023 18:58:50,1/26/2023 18:58:50,selesai
+DL19,PRD19,Kevinswork x Bluesville Sakka Batik,149,Deni Setiawan,Bogor-Baranangsiang-16143,30000,1/26/2023,1/26/2023 20:43:44,1/27/2023 0:31:31,1/27/2023 0:31:31,selesai
+DL20,PRD20,Kevinswork x Bluesville Sakka Batik,143,Eka Putri,Bogor-Baranangsiang-16143,30000,1/27/2023,1/27/2023 2:27:43,1/27/2023 6:23:49,1/27/2023 6:23:49,selesai
+DL21,PRD21,Atlas Eceng Hi Top Sneaker White,175,Deni Setiawan,Jakarta-PasarMinggu-12520,15000,1/27/2023,1/27/2023 5:43:08,1/27/2023 8:04:37,1/27/2023 8:04:37,selesai
+DL22,PRD22,Atlas Eceng Hi Top Sneaker White,133,Faisal Akbar,Tangerang-Serpong-15310,25000,1/28/2023,1/28/2023 16:43:38,1/28/2023 19:48:08,1/28/2023 19:48:08,selesai
+DL23,PRD23,Atlas Eceng Hi Top Sneaker White,123,Citra Dewi,Depok-Cimanggis-16452,18000,1/28/2023,1/28/2023 17:11:13,1/28/2023 19:26:54,1/28/2023 19:26:54,selesai
+DL24,PRD24,Atlas Eceng Hi Top Sneaker White,116,Putra Hadi,Bogor-Baranangsiang-16143,30000,2/1/2023,2/1/2023 9:36:25,2/1/2023 10:58:12,2/1/2023 10:58:12,selesai
+DL25,PRD25,Atlas Sneaker White,124,Deni Setiawan,Bekasi-BekasiTimur-17113,20000,2/1/2023,2/1/2023 22:45:22,2/2/2023 1:45:18,2/2/2023 1:45:18,selesai
+DL26,PRD26,Tiga Slip-On Sneakers - Cerulean Blue,141,Adi Pratama,Bekasi-BekasiTimur-17113,20000,2/2/2023,2/2/2023 4:05:02,2/2/2023 5:06:52,12/30/1899 0:00:00,diperjalanan
+DL27,PRD27,Saki Sneakers - Soybean,137,Kevin Akbar,Bogor-Baranangsiang-16143,30000,2/3/2023,2/3/2023 14:38:01,2/3/2023 16:13:35,12/30/1899 0:00:00,diperjalanan
+DL28,PRD28,Kevinswork x Bluesville Sakka Batik,157,Citra Dewi,Jakarta-PasarMinggu-12520,15000,2/5/2023,2/5/2023 10:12:09,2/5/2023 12:18:35,2/5/2023 12:18:35,selesai
+DL29,PRD29,Tiga Slip-On Sneakers - Cerulean Blue,136,Kevin Akbar,Jakarta-PasarMinggu-12520,15000,2/5/2023,2/5/2023 10:24:45,2/5/2023 12:48:36,2/5/2023 12:48:36,selesai
+DL30,PRD30,Kotta Hybrid Sneakers - Skeleton,155,Citra Dewi,Jakarta-PasarMinggu-12520,15000,2/6/2023,2/6/2023 13:08:32,2/6/2023 15:24:44,2/6/2023 15:24:44,selesai
+DL31,PRD31,Kotta Hybrid Sneakers - Skeleton,164,Putra Hadi,Depok-Cimanggis-16452,18000,2/8/2023,2/8/2023 15:53:56,2/8/2023 18:10:14,2/8/2023 18:10:14,selesai
+DL32,PRD32,Atlas Eceng Hi Top Sneaker White,202,Eka Putri,Jakarta-Kemang-12730,10000,2/14/2023,2/14/2023 10:19:47,2/14/2023 10:32:05,12/30/1899 0:00:00,diperjalanan
+DL33,PRD33,Tiga Slip-On Sneakers - Cerulean Blue,163,Deni Setiawan,Bekasi-BekasiTimur-17113,20000,2/18/2023,2/18/2023 5:06:06,2/18/2023 7:41:49,2/18/2023 7:41:49,selesai
+DL34,PRD34,Kevinswork x Bluesville Sakka Batik,131,Deni Setiawan,Bekasi-BekasiTimur-17113,20000,2/19/2023,2/19/2023 10:52:37,2/19/2023 12:49:41,12/30/1899 0:00:00,diperjalanan
+DL35,PRD35,Kevinswork x Bluesville Sakka Batik,145,Adi Pratama,Jakarta-PasarMinggu-12520,15000,2/20/2023,2/20/2023 10:41:06,2/20/2023 13:08:39,2/20/2023 13:08:39,selesai
+DL36,PRD36,Kotta Hybrid Sneakers - Skeleton,129,Faisal Akbar,Jakarta-Kemang-12730,10000,2/21/2023,2/21/2023 18:25:34,2/21/2023 20:43:49,12/30/1899 0:00:00,diperjalanan
+DL37,PRD37,Saki Sneakers - Soybean,145,Putra Hadi,Jakarta-Kemang-12730,10000,2/21/2023,2/21/2023 19:05:54,2/21/2023 20:28:34,2/21/2023 20:28:34,selesai
+DL38,PRD38,Atlas Eceng Hi Top Sneaker White,120,Faisal Akbar,Jakarta-PasarMinggu-12520,15000,2/23/2023,2/23/2023 13:08:41,2/23/2023 14:30:53,12/30/1899 0:00:00,diperjalanan
+DL39,PRD39,Atlas Eceng Hi Top Sneaker White,144,Adi Pratama,Bekasi-BekasiTimur-17113,20000,2/25/2023,2/25/2023 22:51:10,2/25/2023 2:40:17,12/30/1899 0:00:00,diperjalanan
+DL40,PRD40,Saki Sneakers - Soybean,165,Faisal Akbar,Depok-Cimanggis-16452,18000,2/26/2023,2/26/2023 0:11:12,2/26/2023 2:47:46,2/26/2023 2:47:46,selesai
+DL41,PRD41,Kevinswork x Bluesville Sakka Batik,166,Deni Setiawan,Tangerang-Serpong-15310,25000,3/1/2023,3/1/2023 9:23:47,3/1/2023 12:33:36,3/1/2023 12:33:36,selesai
+DL42,PRD42,Tiga Slip-On Sneakers - Cerulean Blue,172,Putra Hadi,Tangerang-Serpong-15310,25000,3/2/2023,3/2/2023 8:05:21,3/2/2023 11:06:40,3/2/2023 11:06:40,selesai
+DL43,PRD43,Atlas Eceng Hi Top Sneaker White,182,Citra Dewi,Bekasi-BekasiTimur-17113,20000,3/3/2023,3/3/2023 12:21:54,3/3/2023 14:55:10,12/30/1899 0:00:00,diperjalanan
+DL44,PRD44,Atlas Sneaker White,180,Kevin Akbar,Jakarta-PasarMinggu-12520,15000,3/5/2023,3/5/2023 16:57:32,3/5/2023 18:58:01,3/5/2023 18:58:01,selesai
+DL45,PRD45,Atlas Sneaker White,151,Adi Pratama,Depok-Cimanggis-16452,18000,3/5/2023,3/5/2023 10:55:44,3/5/2023 13:18:41,3/5/2023 13:18:41,selesai
+DL46,PRD46,Atlas Sneaker White,146,Eka Putri,Tangerang-Serpong-15310,25000,3/7/2023,3/7/2023 13:29:16,3/7/2023 16:53:12,3/7/2023 16:53:12,selesai
+DL47,PRD47,Saki Sneakers - Soybean,136,Citra Dewi,Bogor-Baranangsiang-16143,30000,3/8/2023,3/8/2023 9:40:09,3/8/2023 12:02:03,12/30/1899 0:00:00,diperjalanan
+DL48,PRD48,Kotta Hybrid Sneakers - Skeleton,173,Deni Setiawan,Jakarta-PasarMinggu-12520,15000,3/8/2023,3/8/2023 18:51:12,3/8/2023 19:15:49,12/30/1899 0:00:00,diperjalanan
+DL49,PRD49,Atlas Eceng Hi Top Sneaker White,157,Adi Pratama,Bogor-Baranangsiang-16143,30000,3/11/2023,3/11/2023 16:01:20,3/11/2023 20:00:03,3/11/2023 20:00:03,selesai
+DL50,PRD50,Atlas Eceng Hi Top Sneaker White,133,Deni Setiawan,Depok-Cimanggis-16452,18000,3/13/2023,3/13/2023 17:11:03,3/13/2023 19:11:47,12/30/1899 0:00:00,diperjalanan
+DL51,PRD51,Atlas Sneaker White,179,Deni Setiawan,Jakarta-PasarMinggu-12520,15000,3/14/2023,3/14/2023 14:06:43,3/14/2023 16:31:14,3/14/2023 16:31:14,selesai
+DL52,PRD52,Tiga Slip-On Sneakers - Cerulean Blue,166,Kevin Akbar,Bekasi-BekasiTimur-17113,20000,3/15/2023,3/15/2023 18:59:37,3/15/2023 19:51:03,12/30/1899 0:00:00,diperjalanan
+DL53,PRD53,Saki Sneakers - Soybean,155,Putra Hadi,Depok-Cimanggis-16452,18000,3/17/2023,3/17/2023 15:51:13,3/17/2023 18:16:38,3/17/2023 18:16:38,selesai
+DL54,PRD54,Kevinswork x Bluesville Sakka Batik,189,Budi Hartono,Tangerang-Serpong-15310,25000,3/17/2023,3/17/2023 21:09:28,3/18/2023 0:11:22,3/18/2023 0:11:22,selesai
+DL55,PRD55,Tiga Slip-On Sneakers - Cerulean Blue,209,Budi Hartono,Bogor-Baranangsiang-16143,30000,3/18/2023,3/18/2023 9:22:38,3/18/2023 10:25:31,12/30/1899 0:00:00,diperjalanan
+DL56,PRD56,Kotta Hybrid Sneakers - Skeleton,208,Adi Pratama,Tangerang-Serpong-15310,25000,3/18/2023,3/18/2023 18:01:00,3/18/2023 21:22:31,3/18/2023 21:22:31,selesai
+DL57,PRD57,Kotta Hybrid Sneakers - Skeleton,170,Budi Hartono,Bogor-Baranangsiang-16143,30000,3/18/2023,3/18/2023 14:40:25,3/18/2023 18:21:45,3/18/2023 18:21:45,selesai
+DL58,PRD58,Atlas Eceng Hi Top Sneaker White,162,Adi Pratama,Jakarta-PasarMinggu-12520,15000,3/19/2023,3/19/2023 21:45:24,3/20/2023 1:06:30,3/20/2023 1:06:30,selesai
+DL59,PRD59,Tiga Slip-On Sneakers - Cerulean Blue,158,Kevin Akbar,Tangerang-Serpong-15310,25000,3/19/2023,3/19/2023 12:41:33,3/19/2023 15:33:05,12/30/1899 0:00:00,diperjalanan
+DL60,PRD60,Kevinswork x Bluesville Sakka Batik,182,Kevin Akbar,Bogor-Baranangsiang-16143,30000,3/20/2023,3/20/2023 20:47:21,3/21/2023 0:26:28,3/21/2023 0:26:28,selesai
+DL61,PRD61,Kevinswork x Bluesville Sakka Batik,155,Deni Setiawan,Bogor-Baranangsiang-16143,30000,3/22/2023,3/22/2023 2:26:20,3/22/2023 6:11:55,3/22/2023 6:11:55,selesai
+DL62,PRD62,Kotta Hybrid Sneakers - Skeleton,166,Citra Dewi,Bogor-Baranangsiang-16143,30000,3/24/2023,3/24/2023 9:38:51,3/24/2023 10:00:58,12/30/1899 0:00:00,diperjalanan
+DL63,PRD63,Saki Sneakers - Soybean,167,Putra Hadi,Depok-Cimanggis-16452,18000,3/27/2023,3/27/2023 9:13:52,3/27/2023 11:43:17,3/27/2023 11:43:17,selesai
+DL64,PRD64,Atlas Eceng Hi Top Sneaker White,164,Putra Hadi,Depok-Cimanggis-16452,18000,3/27/2023,3/27/2023 12:38:57,3/27/2023 15:00:04,3/27/2023 15:00:04,selesai
+DL65,PRD65,Atlas Eceng Hi Top Sneaker White,187,Eka Putri,Jakarta-Kemang-12730,10000,3/31/2023,3/31/2023 10:35:59,3/31/2023 12:53:31,12/30/1899 0:00:00,diperjalanan
+DL66,PRD66,Saki Sneakers - Soybean,210,Putra Hadi,Depok-Cimanggis-16452,18000,3/31/2023,3/31/2023 15:16:28,3/31/2023 17:36:52,3/31/2023 17:36:52,selesai
+DL67,PRD67,Kevinswork x Bluesville Sakka Batik,202,Adi Pratama,Jakarta-Kemang-12730,10000,4/3/2023,4/3/2023 6:19:11,4/3/2023 7:49:04,4/3/2023 7:49:04,selesai
+DL68,PRD68,Tiga Slip-On Sneakers - Cerulean Blue,219,Faisal Akbar,Bekasi-BekasiTimur-17113,20000,4/5/2023,4/5/2023 8:50:41,4/5/2023 11:47:49,4/5/2023 11:47:49,selesai
+DL69,PRD69,Atlas Eceng Hi Top Sneaker White,199,Adi Pratama,Bekasi-BekasiTimur-17113,20000,4/6/2023,4/6/2023 9:07:58,4/6/2023 11:40:29,4/6/2023 11:40:29,selesai
+DL70,PRD70,Atlas Sneaker White,167,Deni Setiawan,Bogor-Baranangsiang-16143,30000,4/6/2023,4/6/2023 12:42:01,4/6/2023 16:18:00,4/6/2023 16:18:00,selesai
+DL71,PRD71,Atlas Sneaker White,168,Kevin Akbar,Bekasi-BekasiTimur-17113,20000,4/6/2023,4/6/2023 18:29:39,4/6/2023 21:23:27,4/6/2023 21:23:27,selesai
+DL72,PRD72,Atlas Sneaker White,201,Eka Putri,Tangerang-Serpong-15310,25000,4/7/2023,4/7/2023 2:07:18,4/7/2023 5:14:49,4/7/2023 5:14:49,selesai
+DL73,PRD73,Saki Sneakers - Soybean,172,Faisal Akbar,Bekasi-BekasiTimur-17113,20000,4/7/2023,4/7/2023 22:03:00,4/8/2023 0:45:41,4/8/2023 0:45:41,selesai
+DL74,PRD74,Kotta Hybrid Sneakers - Skeleton,203,Adi Pratama,Jakarta-PasarMinggu-12520,15000,4/10/2023,4/10/2023 5:53:07,4/10/2023 7:16:06,12/30/1899 0:00:00,diperjalanan
+DL75,PRD75,Atlas Eceng Hi Top Sneaker White,155,Deni Setiawan,Jakarta-PasarMinggu-12520,15000,4/15/2023,4/15/2023 9:32:11,4/15/2023 11:46:25,4/15/2023 11:46:25,selesai
+DL76,PRD76,Tiga Slip-On Sneakers - Cerulean Blue,204,Deni Setiawan,Tangerang-Serpong-15310,25000,4/16/2023,4/16/2023 5:11:55,4/16/2023 8:26:46,4/16/2023 8:26:46,selesai
+DL77,PRD77,Atlas Sneaker White,186,Faisal Akbar,Jakarta-Kemang-12730,10000,4/18/2023,4/18/2023 12:24:01,4/18/2023 13:45:22,4/18/2023 13:45:22,selesai
+DL78,PRD78,Tiga Slip-On Sneakers - Cerulean Blue,195,Eka Putri,Depok-Cimanggis-16452,18000,4/20/2023,4/20/2023 22:32:59,4/21/2023 0:51:09,4/21/2023 0:51:09,selesai
+DL79,PRD79,Saki Sneakers - Soybean,215,Eka Putri,Jakarta-Kemang-12730,10000,4/22/2023,4/22/2023 22:14:33,4/22/2023 22:30:23,12/30/1899 0:00:00,diperjalanan
+DL80,PRD80,Kevinswork x Bluesville Sakka Batik,185,Budi Hartono,Bekasi-BekasiTimur-17113,20000,4/23/2023,4/23/2023 0:39:07,4/23/2023 3:14:15,4/23/2023 3:14:15,selesai
+DL81,PRD81,Tiga Slip-On Sneakers - Cerulean Blue,200,Kevin Akbar,Depok-Cimanggis-16452,18000,4/24/2023,4/24/2023 14:43:33,4/24/2023 17:14:42,4/24/2023 17:14:42,selesai
+DL82,PRD82,Kotta Hybrid Sneakers - Skeleton,192,Deni Setiawan,Jakarta-PasarMinggu-12520,15000,4/24/2023,4/24/2023 14:00:59,4/24/2023 16:02:37,4/24/2023 16:02:37,selesai
+DL83,PRD83,Kotta Hybrid Sneakers - Skeleton,195,Budi Hartono,Tangerang-Serpong-15310,25000,4/28/2023,4/28/2023 2:55:07,4/28/2023 3:19:58,12/30/1899 0:00:00,diperjalanan
+DL84,PRD84,Atlas Eceng Hi Top Sneaker White,180,Putra Hadi,Tangerang-Serpong-15310,25000,4/28/2023,4/28/2023 18:02:26,4/28/2023 21:31:19,4/28/2023 21:31:19,selesai
+DL85,PRD85,Tiga Slip-On Sneakers - Cerulean Blue,170,Putra Hadi,Jakarta-PasarMinggu-12520,15000,5/1/2023,5/1/2023 6:07:09,5/1/2023 6:18:13,12/30/1899 0:00:00,diperjalanan
+DL86,PRD86,Kevinswork x Bluesville Sakka Batik,182,Deni Setiawan,Tangerang-Serpong-15310,25000,5/2/2023,5/2/2023 8:17:38,5/2/2023 8:34:29,12/30/1899 0:00:00,diperjalanan
+DL87,PRD87,Kevinswork x Bluesville Sakka Batik,218,Budi Hartono,Jakarta-PasarMinggu-12520,15000,5/3/2023,5/3/2023 18:14:11,5/3/2023 18:19:38,5/3/2023 18:19:38,selesai
+DL88,PRD88,Kotta Hybrid Sneakers - Skeleton,207,Budi Hartono,Bogor-Baranangsiang-16143,30000,5/4/2023,5/4/2023 23:39:14,5/5/2023 3:35:33,5/5/2023 3:35:33,selesai
+DL89,PRD89,Saki Sneakers - Soybean,187,Deni Setiawan,Jakarta-Kemang-12730,10000,5/4/2023,5/4/2023 23:57:49,5/5/2023 0:58:50,5/5/2023 0:58:50,selesai
+DL90,PRD90,Atlas Eceng Hi Top Sneaker White,217,Adi Pratama,Depok-Cimanggis-16452,18000,5/5/2023,5/5/2023 21:17:51,5/5/2023 21:50:31,5/5/2023 21:50:31,selesai
+DL91,PRD91,Atlas Eceng Hi Top Sneaker White,225,Adi Pratama,Jakarta-PasarMinggu-12520,15000,5/6/2023,5/6/2023 2:49:20,5/6/2023 4:49:53,5/6/2023 4:49:53,selesai
+DL92,PRD92,Saki Sneakers - Soybean,239,Budi Hartono,Jakarta-PasarMinggu-12520,15000,5/9/2023,5/9/2023 0:56:50,5/9/2023 3:11:42,5/9/2023 3:11:42,selesai
+DL93,PRD93,Kevinswork x Bluesville Sakka Batik,203,Kevin Akbar,Bogor-Baranangsiang-16143,30000,5/11/2023,5/11/2023 13:59:10,5/11/2023 17:55:33,5/11/2023 17:55:33,selesai
+DL94,PRD94,Tiga Slip-On Sneakers - Cerulean Blue,192,Citra Dewi,Bogor-Baranangsiang-16143,30000,5/14/2023,5/14/2023 3:43:34,5/14/2023 5:06:02,12/30/1899 0:00:00,diperjalanan
+DL95,PRD95,Atlas Eceng Hi Top Sneaker White,177,Kevin Akbar,Bekasi-BekasiTimur-17113,20000,5/16/2023,5/16/2023 17:29:29,5/16/2023 20:07:22,5/16/2023 20:07:22,selesai
+DL96,PRD96,Atlas Sneaker White,176,Deni Setiawan,Jakarta-Kemang-12730,10000,5/19/2023,5/19/2023 6:24:44,5/19/2023 7:40:36,5/19/2023 7:40:36,selesai
+DL97,PRD97,Atlas Sneaker White,197,Faisal Akbar,Depok-Cimanggis-16452,18000,5/19/2023,5/19/2023 4:05:54,5/19/2023 6:23:45,5/19/2023 6:23:45,selesai
+DL98,PRD98,Atlas Sneaker White,203,Faisal Akbar,Jakarta-PasarMinggu-12520,15000,5/23/2023,5/23/2023 3:49:09,5/23/2023 4:52:11,12/30/1899 0:00:00,diperjalanan
+DL99,PRD99,Saki Sneakers - Soybean,214,Kevin Akbar,Jakarta-Kemang-12730,10000,5/24/2023,5/24/2023 22:53:44,5/24/2023 23:43:35,12/30/1899 0:00:00,diperjalanan
+DL100,PRD100,Kotta Hybrid Sneakers - Skeleton,209,Kevin Akbar,Bekasi-BekasiTimur-17113,20000,5/24/2023,5/24/2023 5:18:36,5/24/2023 7:16:40,12/30/1899 0:00:00,diperjalanan
+DL101,PRD101,Atlas Eceng Hi Top Sneaker White,184,Faisal Akbar,Jakarta-Kemang-12730,10000,5/26/2023,5/26/2023 0:19:12,5/26/2023 1:19:22,5/26/2023 1:19:22,selesai
+DL102,PRD102,Atlas Eceng Hi Top Sneaker White,214,Putra Hadi,Bogor-Baranangsiang-16143,30000,5/28/2023,5/28/2023 3:01:59,5/28/2023 6:08:03,12/30/1899 0:00:00,diperjalanan
+DL103,PRD103,Atlas Eceng Hi Top Sneaker White,229,Eka Putri,Bekasi-BekasiTimur-17113,20000,5/29/2023,5/29/2023 5:28:12,5/29/2023 6:26:09,12/30/1899 0:00:00,diperjalanan
+DL104,PRD104,Atlas Eceng Hi Top Sneaker White,222,Putra Hadi,Depok-Cimanggis-16452,18000,5/29/2023,5/29/2023 4:47:23,5/29/2023 7:42:41,12/30/1899 0:00:00,diperjalanan
+DL105,PRD105,Kotta Hybrid Sneakers - Skeleton,221,Budi Hartono,Jakarta-Kemang-12730,10000,5/30/2023,5/30/2023 1:25:47,5/30/2023 1:52:50,12/30/1899 0:00:00,diperjalanan
+DL106,PRD106,Kotta Hybrid Sneakers - Skeleton,213,Eka Putri,Bekasi-BekasiTimur-17113,20000,5/31/2023,5/31/2023 9:48:40,5/31/2023 11:24:17,12/30/1899 0:00:00,diperjalanan
+DL107,PRD107,Kotta Hybrid Sneakers - Skeleton,221,Eka Putri,Jakarta-PasarMinggu-12520,15000,6/1/2023,6/1/2023 2:17:47,6/1/2023 4:18:35,6/1/2023 4:18:35,selesai
+DL108,PRD108,Kotta Hybrid Sneakers - Skeleton,210,Eka Putri,Jakarta-Kemang-12730,10000,6/3/2023,6/3/2023 2:43:01,6/3/2023 4:05:25,6/3/2023 4:05:25,selesai
+DL109,PRD109,Tiga Slip-On Sneakers - Cerulean Blue,207,Putra Hadi,Jakarta-PasarMinggu-12520,15000,6/4/2023,6/4/2023 23:15:29,6/5/2023 1:32:54,6/5/2023 1:32:54,selesai
+DL110,PRD110,Tiga Slip-On Sneakers - Cerulean Blue,208,Faisal Akbar,Bekasi-BekasiTimur-17113,20000,6/7/2023,6/7/2023 5:31:36,6/7/2023 9:27:45,6/7/2023 9:27:45,selesai
+DL111,PRD111,Tiga Slip-On Sneakers - Cerulean Blue,196,Putra Hadi,Tangerang-Serpong-15310,25000,6/7/2023,6/7/2023 22:20:18,6/7/2023 23:24:23,12/30/1899 0:00:00,diperjalanan
+DL112,PRD112,Tiga Slip-On Sneakers - Cerulean Blue,222,Faisal Akbar,Depok-Cimanggis-16452,18000,6/9/2023,6/9/2023 2:35:43,6/9/2023 4:04:16,6/9/2023 4:04:16,selesai
+DL113,PRD113,Kevinswork x Bluesville Sakka Batik,216,Adi Pratama,Bogor-Baranangsiang-16143,30000,6/9/2023,6/9/2023 19:07:15,6/9/2023 19:18:12,12/30/1899 0:00:00,diperjalanan
+DL114,PRD114,Kevinswork x Bluesville Sakka Batik,267,Eka Putri,Bekasi-BekasiTimur-17113,20000,6/9/2023,6/9/2023 20:40:54,6/9/2023 23:35:26,6/9/2023 23:35:26,selesai
+DL115,PRD115,Kevinswork x Bluesville Sakka Batik,241,Eka Putri,Jakarta-Kemang-12730,10000,6/13/2023,6/13/2023 23:34:37,6/13/2023 23:59:59,12/30/1899 0:00:00,diperjalanan
+DL116,PRD116,Kevinswork x Bluesville Sakka Batik,249,Eka Putri,Jakarta-Kemang-12730,10000,6/15/2023,6/15/2023 17:01:21,6/15/2023 18:04:17,6/15/2023 18:04:17,selesai
+DL117,PRD117,Atlas Eceng Hi Top Sneaker White,233,Faisal Akbar,Tangerang-Serpong-15310,25000,6/19/2023,6/19/2023 9:15:12,6/19/2023 12:15:50,12/30/1899 0:00:00,diperjalanan
+DL118,PRD118,Atlas Eceng Hi Top Sneaker White,200,Deni Setiawan,Depok-Cimanggis-16452,18000,6/20/2023,6/20/2023 4:41:32,6/20/2023 7:20:55,6/20/2023 7:20:55,selesai
+DL119,PRD119,Atlas Eceng Hi Top Sneaker White,220,Eka Putri,Depok-Cimanggis-16452,18000,6/21/2023,6/21/2023 18:04:06,6/21/2023 20:47:02,6/21/2023 20:47:02,selesai
+DL120,PRD120,Atlas Eceng Hi Top Sneaker White,229,Adi Pratama,Jakarta-Kemang-12730,10000,6/21/2023,6/21/2023 8:06:54,6/21/2023 9:09:26,6/21/2023 9:09:26,selesai
+DL121,PRD121,Tiga Slip-On Sneakers - Cerulean Blue,225,Kevin Akbar,Bogor-Baranangsiang-16143,30000,6/23/2023,6/23/2023 14:56:36,6/23/2023 18:54:16,6/23/2023 18:54:16,selesai
+DL122,PRD122,Tiga Slip-On Sneakers - Cerulean Blue,206,Putra Hadi,Depok-Cimanggis-16452,18000,6/25/2023,6/25/2023 12:16:24,6/25/2023 13:59:43,12/30/1899 0:00:00,diperjalanan
+DL123,PRD123,Tiga Slip-On Sneakers - Cerulean Blue,256,Budi Hartono,Jakarta-PasarMinggu-12520,15000,6/26/2023,6/26/2023 12:59:53,6/26/2023 15:17:46,6/26/2023 15:17:46,selesai
+DL124,PRD124,Atlas Sneaker White,211,Budi Hartono,Bogor-Baranangsiang-16143,30000,7/4/2023,7/4/2023 15:12:23,7/4/2023 18:51:49,7/4/2023 18:51:49,selesai
+DL125,PRD125,Atlas Sneaker White,234,Deni Setiawan,Bogor-Baranangsiang-16143,30000,7/5/2023,7/5/2023 20:15:07,7/6/2023 0:41:20,7/6/2023 0:41:20,selesai
+DL126,PRD126,Atlas Sneaker White,273,Adi Pratama,Depok-Cimanggis-16452,18000,7/8/2023,7/8/2023 22:58:40,7/9/2023 0:26:03,12/30/1899 0:00:00,diperjalanan
+DL127,PRD127,Tiga Slip-On Sneakers - Cerulean Blue,239,Budi Hartono,Jakarta-Kemang-12730,10000,7/8/2023,7/8/2023 6:17:44,7/8/2023 7:18:52,7/8/2023 7:18:52,selesai
+DL128,PRD128,Saki Sneakers - Soybean,246,Eka Putri,Jakarta-Kemang-12730,10000,7/9/2023,7/9/2023 20:17:37,7/9/2023 20:51:24,12/30/1899 0:00:00,diperjalanan
+DL129,PRD129,Kevinswork x Bluesville Sakka Batik,245,Eka Putri,Bogor-Baranangsiang-16143,30000,7/10/2023,7/10/2023 13:37:16,7/10/2023 17:13:40,7/10/2023 17:13:40,selesai
+DL130,PRD130,Tiga Slip-On Sneakers - Cerulean Blue,220,Deni Setiawan,Bogor-Baranangsiang-16143,30000,7/13/2023,7/13/2023 4:52:35,7/13/2023 8:29:43,7/13/2023 8:29:43,selesai
+DL131,PRD131,Kotta Hybrid Sneakers - Skeleton,190,Putra Hadi,Tangerang-Serpong-15310,25000,7/14/2023,7/14/2023 8:17:28,7/14/2023 11:46:08,7/14/2023 11:46:08,selesai
+DL132,PRD132,Kotta Hybrid Sneakers - Skeleton,229,Deni Setiawan,Jakarta-Kemang-12730,10000,7/15/2023,7/15/2023 19:59:51,7/15/2023 20:36:01,12/30/1899 0:00:00,diperjalanan
+DL133,PRD133,Atlas Eceng Hi Top Sneaker White,207,Adi Pratama,Depok-Cimanggis-16452,18000,7/16/2023,7/16/2023 1:31:14,7/16/2023 5:06:56,7/16/2023 5:06:56,selesai
+DL134,PRD134,Tiga Slip-On Sneakers - Cerulean Blue,237,Eka Putri,Tangerang-Serpong-15310,25000,7/20/2023,7/20/2023 14:08:43,7/20/2023 16:10:44,12/30/1899 0:00:00,diperjalanan
+DL135,PRD135,Kevinswork x Bluesville Sakka Batik,231,Budi Hartono,Tangerang-Serpong-15310,25000,7/22/2023,7/22/2023 12:37:48,7/22/2023 14:33:04,12/30/1899 0:00:00,diperjalanan
+DL136,PRD136,Kevinswork x Bluesville Sakka Batik,266,Kevin Akbar,Jakarta-Kemang-12730,10000,7/23/2023,7/23/2023 20:53:57,7/23/2023 21:56:25,12/30/1899 0:00:00,diperjalanan
+DL137,PRD137,Kotta Hybrid Sneakers - Skeleton,223,Adi Pratama,Jakarta-Kemang-12730,10000,7/23/2023,7/23/2023 4:30:19,7/23/2023 5:32:06,12/30/1899 0:00:00,diperjalanan
+DL138,PRD138,Saki Sneakers - Soybean,245,Kevin Akbar,Bekasi-BekasiTimur-17113,20000,7/23/2023,7/23/2023 23:13:40,7/24/2023 2:01:00,7/24/2023 2:01:00,selesai
+DL139,PRD139,Atlas Eceng Hi Top Sneaker White,276,Citra Dewi,Jakarta-PasarMinggu-12520,15000,7/23/2023,7/23/2023 8:11:53,7/23/2023 10:23:23,7/23/2023 10:23:23,selesai
+DL140,PRD140,Atlas Eceng Hi Top Sneaker White,246,Adi Pratama,Tangerang-Serpong-15310,25000,7/26/2023,7/26/2023 5:10:28,7/26/2023 8:07:40,12/30/1899 0:00:00,diperjalanan
+DL141,PRD141,Saki Sneakers - Soybean,257,Deni Setiawan,Depok-Cimanggis-16452,18000,7/30/2023,7/30/2023 12:11:41,7/30/2023 14:33:51,12/30/1899 0:00:00,diperjalanan
+DL142,PRD142,Kevinswork x Bluesville Sakka Batik,257,Kevin Akbar,Jakarta-Kemang-12730,10000,7/30/2023,7/30/2023 8:07:44,7/30/2023 9:24:33,7/30/2023 9:24:33,selesai
+DL143,PRD143,Tiga Slip-On Sneakers - Cerulean Blue,199,Citra Dewi,Jakarta-Kemang-12730,10000,7/31/2023,7/31/2023 5:09:48,7/31/2023 5:47:09,12/30/1899 0:00:00,diperjalanan
+DL144,PRD144,Atlas Eceng Hi Top Sneaker White,241,Citra Dewi,Bogor-Baranangsiang-16143,30000,7/31/2023,7/31/2023 3:46:33,7/31/2023 7:19:54,7/31/2023 7:19:54,selesai
+DL145,PRD145,Atlas Sneaker White,237,Deni Setiawan,Tangerang-Serpong-15310,25000,8/1/2023,8/1/2023 0:43:25,8/1/2023 3:52:28,8/1/2023 3:52:28,selesai
+DL146,PRD146,Atlas Sneaker White,252,Adi Pratama,Jakarta-PasarMinggu-12520,15000,8/4/2023,8/4/2023 15:47:53,8/4/2023 16:43:30,12/30/1899 0:00:00,diperjalanan
+DL147,PRD147,Atlas Sneaker White,236,Kevin Akbar,Jakarta-Kemang-12730,10000,8/5/2023,8/5/2023 16:51:20,8/5/2023 18:20:12,8/5/2023 18:20:12,selesai
+DL148,PRD148,Saki Sneakers - Soybean,233,Citra Dewi,Tangerang-Serpong-15310,25000,8/5/2023,8/5/2023 13:29:10,8/5/2023 16:37:06,8/5/2023 16:37:06,selesai
+DL149,PRD149,Kotta Hybrid Sneakers - Skeleton,253,Budi Hartono,Tangerang-Serpong-15310,25000,8/5/2023,8/5/2023 0:41:56,8/5/2023 3:57:53,8/5/2023 3:57:53,selesai
+DL150,PRD150,Tiga Slip-On Sneakers - Cerulean Blue,265,Budi Hartono,Bekasi-BekasiTimur-17113,20000,8/7/2023,8/7/2023 11:11:35,8/7/2023 13:58:44,8/7/2023 13:58:44,selesai
+DL151,PRD151,Kevinswork x Bluesville Sakka Batik,278,Kevin Akbar,Tangerang-Serpong-15310,25000,8/10/2023,8/10/2023 19:01:13,8/10/2023 22:20:47,8/10/2023 22:20:47,selesai
+DL152,PRD152,Kevinswork x Bluesville Sakka Batik,280,Budi Hartono,Bekasi-BekasiTimur-17113,20000,8/11/2023,8/11/2023 19:43:10,8/11/2023 21:57:37,8/11/2023 21:57:37,selesai
+DL153,PRD153,Kevinswork x Bluesville Sakka Batik,253,Faisal Akbar,Tangerang-Serpong-15310,25000,8/13/2023,8/13/2023 15:24:33,8/13/2023 17:54:14,12/30/1899 0:00:00,diperjalanan
+DL154,PRD154,Kevinswork x Bluesville Sakka Batik,251,Budi Hartono,Jakarta-Kemang-12730,10000,8/13/2023,8/13/2023 11:37:46,8/13/2023 13:00:17,8/13/2023 13:00:17,selesai
+DL155,PRD155,Atlas Eceng Hi Top Sneaker White,238,Budi Hartono,Bekasi-BekasiTimur-17113,20000,8/14/2023,8/14/2023 12:39:56,8/14/2023 13:17:14,12/30/1899 0:00:00,diperjalanan
+DL156,PRD156,Atlas Eceng Hi Top Sneaker White,237,Eka Putri,Bekasi-BekasiTimur-17113,20000,8/16/2023,8/16/2023 22:49:18,8/17/2023 1:20:09,8/17/2023 1:20:09,selesai
+DL157,PRD157,Atlas Eceng Hi Top Sneaker White,271,Faisal Akbar,Jakarta-PasarMinggu-12520,15000,8/17/2023,8/17/2023 4:07:45,8/17/2023 4:43:46,12/30/1899 0:00:00,diperjalanan
+DL158,PRD158,Atlas Eceng Hi Top Sneaker White,257,Putra Hadi,Jakarta-Kemang-12730,10000,8/18/2023,8/18/2023 21:24:21,8/18/2023 22:40:47,8/18/2023 22:40:47,selesai
+DL159,PRD159,Tiga Slip-On Sneakers - Cerulean Blue,247,Faisal Akbar,Bogor-Baranangsiang-16143,30000,8/20/2023,8/20/2023 9:06:18,8/20/2023 11:30:03,12/30/1899 0:00:00,diperjalanan
+DL160,PRD160,Tiga Slip-On Sneakers - Cerulean Blue,272,Faisal Akbar,Jakarta-PasarMinggu-12520,15000,8/21/2023,8/21/2023 5:30:27,8/21/2023 7:39:03,8/21/2023 7:39:03,selesai
+DL161,PRD161,Atlas Sneaker White,241,Putra Hadi,Jakarta-PasarMinggu-12520,15000,8/21/2023,8/21/2023 15:19:40,8/21/2023 17:48:38,8/21/2023 17:48:38,selesai
+DL162,PRD162,Tiga Slip-On Sneakers - Cerulean Blue,282,Eka Putri,Tangerang-Serpong-15310,25000,8/21/2023,8/21/2023 20:15:28,8/21/2023 21:14:12,12/30/1899 0:00:00,diperjalanan
+DL163,PRD163,Saki Sneakers - Soybean,301,Kevin Akbar,Jakarta-Kemang-12730,10000,8/22/2023,8/22/2023 14:28:10,8/22/2023 15:26:32,12/30/1899 0:00:00,diperjalanan
+DL164,PRD164,Kevinswork x Bluesville Sakka Batik,273,Citra Dewi,Bogor-Baranangsiang-16143,30000,8/23/2023,8/23/2023 4:27:08,8/23/2023 8:24:13,8/23/2023 8:24:13,selesai
+DL165,PRD165,Tiga Slip-On Sneakers - Cerulean Blue,288,Deni Setiawan,Bogor-Baranangsiang-16143,30000,8/23/2023,8/23/2023 11:28:14,8/23/2023 13:19:54,12/30/1899 0:00:00,diperjalanan
+DL166,PRD166,Kotta Hybrid Sneakers - Skeleton,264,Kevin Akbar,Bekasi-BekasiTimur-17113,20000,8/24/2023,8/24/2023 6:30:44,8/24/2023 9:14:57,8/24/2023 9:14:57,selesai
+DL167,PRD167,Kotta Hybrid Sneakers - Skeleton,256,Citra Dewi,Tangerang-Serpong-15310,25000,8/26/2023,8/26/2023 15:10:00,8/26/2023 15:50:48,12/30/1899 0:00:00,diperjalanan
+DL168,PRD168,Atlas Eceng Hi Top Sneaker White,287,Budi Hartono,Jakarta-Kemang-12730,10000,8/27/2023,8/27/2023 3:15:55,8/27/2023 4:21:31,8/27/2023 4:21:31,selesai
+DL169,PRD169,Tiga Slip-On Sneakers - Cerulean Blue,249,Citra Dewi,Bekasi-BekasiTimur-17113,20000,8/27/2023,8/27/2023 9:29:36,8/27/2023 12:22:47,8/27/2023 12:22:47,selesai
+DL170,PRD170,Kevinswork x Bluesville Sakka Batik,249,Deni Setiawan,Depok-Cimanggis-16452,18000,8/28/2023,8/28/2023 17:17:14,8/28/2023 19:35:35,8/28/2023 19:35:35,selesai
+DL171,PRD171,Kevinswork x Bluesville Sakka Batik,261,Citra Dewi,Jakarta-PasarMinggu-12520,15000,8/28/2023,8/28/2023 10:28:57,8/28/2023 12:48:26,8/28/2023 12:48:26,selesai
+DL172,PRD172,Kotta Hybrid Sneakers - Skeleton,260,Eka Putri,Tangerang-Serpong-15310,25000,8/29/2023,8/29/2023 10:10:43,8/29/2023 13:27:09,8/29/2023 13:27:09,selesai
+DL173,PRD173,Saki Sneakers - Soybean,264,Faisal Akbar,Tangerang-Serpong-15310,25000,8/30/2023,8/30/2023 7:28:02,8/30/2023 9:11:08,12/30/1899 0:00:00,diperjalanan
+DL174,PRD174,Atlas Eceng Hi Top Sneaker White,285,Putra Hadi,Jakarta-Kemang-12730,10000,8/31/2023,8/31/2023 4:58:30,8/31/2023 6:18:45,8/31/2023 6:18:45,selesai
+DL175,PRD175,Atlas Eceng Hi Top Sneaker White,298,Kevin Akbar,Jakarta-Kemang-12730,10000,9/5/2023,9/5/2023 7:47:20,9/5/2023 9:13:33,9/5/2023 9:13:33,selesai
+DL176,PRD176,Saki Sneakers - Soybean,307,Adi Pratama,Depok-Cimanggis-16452,18000,9/5/2023,9/5/2023 7:32:05,9/5/2023 8:50:46,12/30/1899 0:00:00,diperjalanan
+DL177,PRD177,Kevinswork x Bluesville Sakka Batik,284,Budi Hartono,Tangerang-Serpong-15310,25000,9/6/2023,9/6/2023 8:31:26,9/6/2023 11:54:58,9/6/2023 11:54:58,selesai
+DL178,PRD178,Tiga Slip-On Sneakers - Cerulean Blue,289,Adi Pratama,Jakarta-Kemang-12730,10000,9/6/2023,9/6/2023 0:58:26,9/6/2023 2:11:04,9/6/2023 2:11:04,selesai
+DL179,PRD179,Atlas Eceng Hi Top Sneaker White,250,Deni Setiawan,Tangerang-Serpong-15310,25000,9/7/2023,9/7/2023 1:01:34,9/7/2023 4:10:00,12/30/1899 0:00:00,diperjalanan
+DL180,PRD180,Atlas Sneaker White,309,Deni Setiawan,Depok-Cimanggis-16452,18000,9/10/2023,9/10/2023 16:40:14,9/10/2023 19:37:48,9/10/2023 19:37:48,selesai
+DL181,PRD181,Atlas Sneaker White,273,Adi Pratama,Jakarta-PasarMinggu-12520,15000,9/12/2023,9/12/2023 22:36:33,9/13/2023 0:40:12,9/13/2023 0:40:12,selesai
+DL182,PRD182,Atlas Sneaker White,257,Kevin Akbar,Jakarta-Kemang-12730,10000,9/13/2023,9/13/2023 12:48:36,9/13/2023 13:11:05,12/30/1899 0:00:00,diperjalanan
+DL183,PRD183,Saki Sneakers - Soybean,269,Faisal Akbar,Tangerang-Serpong-15310,25000,9/14/2023,9/14/2023 15:11:32,9/14/2023 18:16:57,9/14/2023 18:16:57,selesai
+DL184,PRD184,Kotta Hybrid Sneakers - Skeleton,290,Citra Dewi,Tangerang-Serpong-15310,25000,9/15/2023,9/15/2023 22:53:30,9/16/2023 0:04:35,12/30/1899 0:00:00,diperjalanan
+DL185,PRD185,Kotta Hybrid Sneakers - Skeleton,272,Deni Setiawan,Depok-Cimanggis-16452,18000,9/16/2023,9/16/2023 19:18:37,9/16/2023 20:40:33,12/30/1899 0:00:00,diperjalanan
+DL186,PRD186,Tiga Slip-On Sneakers - Cerulean Blue,301,Eka Putri,Depok-Cimanggis-16452,18000,9/16/2023,9/16/2023 15:10:36,9/16/2023 16:20:59,12/30/1899 0:00:00,diperjalanan
+DL187,PRD187,Tiga Slip-On Sneakers - Cerulean Blue,311,Kevin Akbar,Depok-Cimanggis-16452,18000,9/18/2023,9/18/2023 7:06:48,9/18/2023 9:42:11,9/18/2023 9:42:11,selesai
+DL188,PRD188,Tiga Slip-On Sneakers - Cerulean Blue,304,Budi Hartono,Depok-Cimanggis-16452,18000,9/20/2023,9/20/2023 4:29:39,9/20/2023 6:18:13,12/30/1899 0:00:00,diperjalanan
+DL189,PRD189,Tiga Slip-On Sneakers - Cerulean Blue,281,Budi Hartono,Bogor-Baranangsiang-16143,30000,9/20/2023,9/20/2023 8:57:58,9/20/2023 12:51:15,9/20/2023 12:51:15,selesai
+DL190,PRD190,Kevinswork x Bluesville Sakka Batik,255,Adi Pratama,Jakarta-PasarMinggu-12520,15000,9/23/2023,9/23/2023 22:40:42,9/23/2023 23:12:55,12/30/1899 0:00:00,diperjalanan
+DL191,PRD191,Kevinswork x Bluesville Sakka Batik,257,Adi Pratama,Jakarta-PasarMinggu-12520,15000,9/23/2023,9/23/2023 11:32:19,9/23/2023 13:38:14,9/23/2023 13:38:14,selesai
+DL192,PRD192,Kevinswork x Bluesville Sakka Batik,291,Citra Dewi,Depok-Cimanggis-16452,18000,9/26/2023,9/26/2023 2:22:45,9/26/2023 5:03:21,9/26/2023 5:03:21,selesai
+DL193,PRD193,Kevinswork x Bluesville Sakka Batik,276,Adi Pratama,Bogor-Baranangsiang-16143,30000,9/30/2023,9/30/2023 13:39:53,9/30/2023 17:11:35,9/30/2023 17:11:35,selesai
+DL194,PRD194,Atlas Eceng Hi Top Sneaker White,261,Citra Dewi,Bogor-Baranangsiang-16143,30000,9/30/2023,9/30/2023 13:24:54,9/30/2023 16:27:39,12/30/1899 0:00:00,diperjalanan
+DL195,PRD195,Atlas Eceng Hi Top Sneaker White,298,Citra Dewi,Tangerang-Serpong-15310,25000,10/3/2023,10/3/2023 20:48:08,10/3/2023 22:59:47,12/30/1899 0:00:00,diperjalanan
+DL196,PRD196,Atlas Eceng Hi Top Sneaker White,299,Citra Dewi,Bekasi-BekasiTimur-17113,20000,10/5/2023,10/5/2023 14:26:59,10/5/2023 16:27:18,12/30/1899 0:00:00,diperjalanan
+DL197,PRD197,Atlas Eceng Hi Top Sneaker White,272,Kevin Akbar,Tangerang-Serpong-15310,25000,10/6/2023,10/6/2023 5:37:47,10/6/2023 7:34:35,12/30/1899 0:00:00,diperjalanan
+DL198,PRD198,Tiga Slip-On Sneakers - Cerulean Blue,303,Kevin Akbar,Jakarta-Kemang-12730,10000,10/7/2023,10/7/2023 20:39:29,10/7/2023 21:59:50,10/7/2023 21:59:50,selesai
+DL199,PRD199,Tiga Slip-On Sneakers - Cerulean Blue,315,Kevin Akbar,Depok-Cimanggis-16452,18000,10/8/2023,10/8/2023 20:08:19,10/8/2023 21:42:26,12/30/1899 0:00:00,diperjalanan
+DL200,PRD200,Tiga Slip-On Sneakers - Cerulean Blue,298,Faisal Akbar,Jakarta-PasarMinggu-12520,15000,10/8/2023,10/8/2023 10:18:39,10/8/2023 10:39:01,12/30/1899 0:00:00,diperjalanan
+DL201,PRD201,Atlas Sneaker White,309,Kevin Akbar,Depok-Cimanggis-16452,18000,10/9/2023,10/9/2023 12:24:25,10/9/2023 13:49:56,10/9/2023 13:49:56,selesai
+DL202,PRD202,Atlas Sneaker White,296,Adi Pratama,Bekasi-BekasiTimur-17113,20000,10/10/2023,10/10/2023 23:25:21,10/11/2023 2:13:45,10/11/2023 2:13:45,selesai
+DL203,PRD203,Atlas Sneaker White,290,Kevin Akbar,Bekasi-BekasiTimur-17113,20000,10/13/2023,10/13/2023 23:12:11,10/14/2023 1:16:10,10/14/2023 1:16:10,selesai
+DL204,PRD204,Atlas Sneaker White,304,Deni Setiawan,Jakarta-Kemang-12730,10000,10/17/2023,10/17/2023 9:07:55,10/17/2023 11:21:01,10/17/2023 11:21:01,selesai
+DL205,PRD205,Kevinswork x Bluesville Sakka Batik,263,Deni Setiawan,Jakarta-Kemang-12730,10000,10/23/2023,10/23/2023 9:13:44,10/23/2023 9:14:46,12/30/1899 0:00:00,diperjalanan
+DL206,PRD206,Kotta Hybrid Sneakers - Skeleton,276,Deni Setiawan,Jakarta-Kemang-12730,10000,10/26/2023,10/26/2023 21:30:42,10/26/2023 22:38:21,10/26/2023 22:38:21,selesai
+DL207,PRD207,Saki Sneakers - Soybean,313,Budi Hartono,Tangerang-Serpong-15310,25000,10/26/2023,10/26/2023 8:33:06,10/26/2023 11:48:55,10/26/2023 11:48:55,selesai
+DL208,PRD208,Atlas Eceng Hi Top Sneaker White,311,Eka Putri,Jakarta-Kemang-12730,10000,10/26/2023,10/26/2023 19:35:13,10/26/2023 20:52:44,10/26/2023 20:52:44,selesai
+DL209,PRD209,Atlas Eceng Hi Top Sneaker White,303,Faisal Akbar,Bekasi-BekasiTimur-17113,20000,10/28/2023,10/28/2023 7:35:52,10/28/2023 9:11:32,12/30/1899 0:00:00,diperjalanan
+DL210,PRD210,Saki Sneakers - Soybean,368,Faisal Akbar,Bekasi-BekasiTimur-17113,20000,10/28/2023,10/28/2023 1:34:41,10/28/2023 4:16:23,10/28/2023 4:16:23,selesai
+DL211,PRD211,Kevinswork x Bluesville Sakka Batik,333,Kevin Akbar,Depok-Cimanggis-16452,18000,10/29/2023,10/29/2023 0:39:52,10/29/2023 3:14:12,10/29/2023 3:14:12,selesai
+DL212,PRD212,Tiga Slip-On Sneakers - Cerulean Blue,342,Faisal Akbar,Bogor-Baranangsiang-16143,30000,10/31/2023,10/31/2023 8:22:32,10/31/2023 12:08:40,10/31/2023 12:08:40,selesai
+DL213,PRD213,Atlas Eceng Hi Top Sneaker White,328,Eka Putri,Jakarta-Kemang-12730,10000,10/31/2023,10/31/2023 9:21:40,10/31/2023 10:33:56,10/31/2023 10:33:56,selesai
+DL214,PRD214,Atlas Sneaker White,308,Citra Dewi,Depok-Cimanggis-16452,18000,11/1/2023,11/1/2023 16:59:59,11/1/2023 17:35:42,12/30/1899 0:00:00,diperjalanan
+DL215,PRD215,Atlas Sneaker White,279,Budi Hartono,Tangerang-Serpong-15310,25000,11/2/2023,11/2/2023 8:34:17,11/2/2023 11:37:02,12/30/1899 0:00:00,diperjalanan
+DL216,PRD216,Atlas Sneaker White,310,Eka Putri,Tangerang-Serpong-15310,25000,11/2/2023,11/2/2023 3:07:45,11/2/2023 6:29:32,11/2/2023 6:29:32,selesai
+DL217,PRD217,Saki Sneakers - Soybean,282,Eka Putri,Tangerang-Serpong-15310,25000,11/5/2023,11/5/2023 4:16:18,11/5/2023 5:57:14,12/30/1899 0:00:00,diperjalanan
+DL218,PRD218,Kotta Hybrid Sneakers - Skeleton,297,Kevin Akbar,Bogor-Baranangsiang-16143,30000,11/8/2023,11/8/2023 8:17:29,11/8/2023 11:57:41,11/8/2023 11:57:41,selesai
+DL219,PRD219,Atlas Eceng Hi Top Sneaker White,308,Citra Dewi,Jakarta-Kemang-12730,10000,11/9/2023,11/9/2023 9:02:48,11/9/2023 10:15:29,11/9/2023 10:15:29,selesai
+DL220,PRD220,Tiga Slip-On Sneakers - Cerulean Blue,314,Eka Putri,Jakarta-Kemang-12730,10000,11/14/2023,11/14/2023 12:19:40,11/14/2023 13:34:46,11/14/2023 13:34:46,selesai
+DL221,PRD221,Atlas Sneaker White,341,Putra Hadi,Bekasi-BekasiTimur-17113,20000,11/14/2023,11/14/2023 1:04:53,11/14/2023 3:39:18,11/14/2023 3:39:18,selesai
+DL222,PRD222,Tiga Slip-On Sneakers - Cerulean Blue,293,Adi Pratama,Bogor-Baranangsiang-16143,30000,11/16/2023,11/16/2023 4:52:20,11/16/2023 5:42:35,12/30/1899 0:00:00,diperjalanan
+DL223,PRD223,Saki Sneakers - Soybean,345,Citra Dewi,Bogor-Baranangsiang-16143,30000,11/16/2023,11/16/2023 14:02:52,11/16/2023 18:02:26,11/16/2023 18:02:26,selesai
+DL224,PRD224,Kevinswork x Bluesville Sakka Batik,311,Putra Hadi,Bekasi-BekasiTimur-17113,20000,11/20/2023,11/20/2023 2:18:30,11/20/2023 3:23:29,12/30/1899 0:00:00,diperjalanan
+DL225,PRD225,Tiga Slip-On Sneakers - Cerulean Blue,317,Putra Hadi,Depok-Cimanggis-16452,18000,11/20/2023,11/20/2023 4:01:14,11/20/2023 6:43:46,11/20/2023 6:43:46,selesai
+DL226,PRD226,Kotta Hybrid Sneakers - Skeleton,324,Adi Pratama,Tangerang-Serpong-15310,25000,11/20/2023,11/20/2023 17:58:58,11/20/2023 21:00:16,11/20/2023 21:00:16,selesai
+DL227,PRD227,Kotta Hybrid Sneakers - Skeleton,295,Budi Hartono,Jakarta-Kemang-12730,10000,11/23/2023,11/23/2023 2:22:55,11/23/2023 3:21:59,11/23/2023 3:21:59,selesai
+DL228,PRD228,Atlas Eceng Hi Top Sneaker White,293,Faisal Akbar,Tangerang-Serpong-15310,25000,11/23/2023,11/23/2023 22:25:14,11/23/2023 23:34:45,12/30/1899 0:00:00,diperjalanan
+DL229,PRD229,Tiga Slip-On Sneakers - Cerulean Blue,293,Deni Setiawan,Depok-Cimanggis-16452,18000,11/25/2023,11/25/2023 21:40:57,11/26/2023 0:20:31,11/26/2023 0:20:31,selesai
+DL230,PRD230,Kevinswork x Bluesville Sakka Batik,321,Putra Hadi,Bekasi-BekasiTimur-17113,20000,11/25/2023,11/25/2023 3:34:52,11/25/2023 6:05:29,11/25/2023 6:05:29,selesai
+DL231,PRD231,Kevinswork x Bluesville Sakka Batik,314,Citra Dewi,Jakarta-PasarMinggu-12520,15000,11/29/2023,11/29/2023 13:32:40,11/29/2023 16:17:50,11/29/2023 16:17:50,selesai
+DL232,PRD232,Kotta Hybrid Sneakers - Skeleton,326,Faisal Akbar,Jakarta-Kemang-12730,10000,11/29/2023,11/29/2023 10:19:26,11/29/2023 11:33:16,11/29/2023 11:33:16,selesai
+DL233,PRD233,Saki Sneakers - Soybean,317,Kevin Akbar,Jakarta-PasarMinggu-12520,15000,11/29/2023,11/29/2023 9:25:30,11/29/2023 11:53:44,11/29/2023 11:53:44,selesai
+DL234,PRD234,Atlas Eceng Hi Top Sneaker White,321,Putra Hadi,Bekasi-BekasiTimur-17113,20000,11/29/2023,11/29/2023 5:56:07,11/29/2023 8:36:43,11/29/2023 8:36:43,selesai
+DL235,PRD235,Atlas Eceng Hi Top Sneaker White,377,Citra Dewi,Bogor-Baranangsiang-16143,30000,11/29/2023,11/29/2023 14:56:16,11/29/2023 18:41:16,11/29/2023 18:41:16,selesai
+DL236,PRD236,Saki Sneakers - Soybean,355,Faisal Akbar,Jakarta-PasarMinggu-12520,15000,12/2/2023,12/2/2023 16:33:21,12/2/2023 19:01:19,12/2/2023 19:01:19,selesai
+DL237,PRD237,Kevinswork x Bluesville Sakka Batik,304,Putra Hadi,Jakarta-Kemang-12730,10000,12/3/2023,12/3/2023 23:24:00,12/4/2023 0:27:09,12/4/2023 0:27:09,selesai
+DL238,PRD238,Tiga Slip-On Sneakers - Cerulean Blue,321,Deni Setiawan,Jakarta-Kemang-12730,10000,12/3/2023,12/3/2023 5:47:08,12/3/2023 7:12:18,12/3/2023 7:12:18,selesai
+DL239,PRD239,Atlas Eceng Hi Top Sneaker White,294,Kevin Akbar,Tangerang-Serpong-15310,25000,12/3/2023,12/3/2023 23:03:09,12/4/2023 2:19:08,12/4/2023 2:19:08,selesai
+DL240,PRD240,Atlas Sneaker White,332,Kevin Akbar,Jakarta-Kemang-12730,10000,12/4/2023,12/4/2023 5:19:53,12/4/2023 6:20:06,12/30/1899 0:00:00,diperjalanan
+DL241,PRD241,Atlas Sneaker White,302,Adi Pratama,Bekasi-BekasiTimur-17113,20000,12/5/2023,12/5/2023 9:33:01,12/5/2023 12:03:10,12/5/2023 12:03:10,selesai
+DL242,PRD242,Atlas Sneaker White,319,Kevin Akbar,Tangerang-Serpong-15310,25000,12/9/2023,12/9/2023 7:30:16,12/9/2023 7:42:42,12/30/1899 0:00:00,diperjalanan
+DL243,PRD243,Saki Sneakers - Soybean,343,Adi Pratama,Bekasi-BekasiTimur-17113,20000,12/10/2023,12/10/2023 4:00:36,12/10/2023 6:33:46,12/10/2023 6:33:46,selesai
+DL244,PRD244,Kotta Hybrid Sneakers - Skeleton,346,Citra Dewi,Bogor-Baranangsiang-16143,30000,12/13/2023,12/13/2023 17:36:28,12/13/2023 19:27:48,12/30/1899 0:00:00,diperjalanan
+DL245,PRD245,Atlas Eceng Hi Top Sneaker White,308,Eka Putri,Tangerang-Serpong-15310,25000,12/15/2023,12/15/2023 22:02:04,12/16/2023 1:24:54,12/16/2023 1:24:54,selesai
+DL246,PRD246,Atlas Eceng Hi Top Sneaker White,336,Putra Hadi,Tangerang-Serpong-15310,25000,12/16/2023,12/16/2023 8:29:46,12/16/2023 8:34:18,12/16/2023 8:34:18,selesai
+DL247,PRD247,Atlas Eceng Hi Top Sneaker White,348,Eka Putri,Tangerang-Serpong-15310,25000,12/17/2023,12/17/2023 8:56:56,12/17/2023 12:18:53,12/17/2023 12:18:53,selesai
+DL248,PRD248,Atlas Eceng Hi Top Sneaker White,346,Citra Dewi,Bogor-Baranangsiang-16143,30000,12/23/2023,12/23/2023 19:05:42,12/23/2023 21:29:57,12/30/1899 0:00:00,diperjalanan
+DL249,PRD249,Kotta Hybrid Sneakers - Skeleton,371,Budi Hartono,Jakarta-PasarMinggu-12520,15000,12/24/2023,12/24/2023 15:41:07,12/24/2023 17:49:48,12/24/2023 17:49:48,selesai
+DL250,PRD250,Kotta Hybrid Sneakers - Skeleton,334,Eka Putri,Bogor-Baranangsiang-16143,30000,12/25/2023,12/25/2023 3:43:04,12/25/2023 7:41:05,12/25/2023 7:41:05,selesai
+DL251,PRD251,Kotta Hybrid Sneakers - Skeleton,295,Budi Hartono,Bogor-Baranangsiang-16143,30000,12/26/2023,12/26/2023 2:49:39,12/26/2023 4:16:37,12/30/1899 0:00:00,diperjalanan
+DL252,PRD252,Kotta Hybrid Sneakers - Skeleton,343,Adi Pratama,Jakarta-PasarMinggu-12520,15000,12/27/2023,12/27/2023 9:52:23,12/27/2023 11:39:54,12/30/1899 0:00:00,diperjalanan
+DL253,PRD253,Tiga Slip-On Sneakers - Cerulean Blue,356,Deni Setiawan,Bogor-Baranangsiang-16143,30000,12/28/2023,12/28/2023 11:41:53,12/28/2023 15:17:56,12/28/2023 15:17:56,selesai
+DL254,PRD254,Tiga Slip-On Sneakers - Cerulean Blue,346,Deni Setiawan,Jakarta-Kemang-12730,10000,12/28/2023,12/28/2023 21:30:55,12/28/2023 22:35:28,12/28/2023 22:35:28,selesai
+DL255,PRD255,Tiga Slip-On Sneakers - Cerulean Blue,323,Deni Setiawan,Jakarta-Kemang-12730,10000,12/29/2023,12/29/2023 16:35:13,12/29/2023 17:52:06,12/29/2023 17:52:06,selesai
+DL256,PRD256,Tiga Slip-On Sneakers - Cerulean Blue,336,Deni Setiawan,Jakarta-PasarMinggu-12520,15000,1/1/2024,1/1/2024 10:29:48,1/1/2024 10:57:02,12/30/1899 0:00:00,diperjalanan
+DL257,PRD257,Kevinswork x Bluesville Sakka Batik,355,Adi Pratama,Bekasi-BekasiTimur-17113,20000,1/2/2024,1/2/2024 2:06:18,1/2/2024 4:46:49,1/2/2024 4:46:49,selesai
+DL258,PRD258,Kevinswork x Bluesville Sakka Batik,340,Eka Putri,Bogor-Baranangsiang-16143,30000,1/2/2024,1/2/2024 19:42:18,1/2/2024 20:19:32,12/30/1899 0:00:00,diperjalanan
+DL259,PRD259,Kevinswork x Bluesville Sakka Batik,371,Deni Setiawan,Depok-Cimanggis-16452,18000,1/2/2024,1/2/2024 21:08:22,1/2/2024 23:40:29,1/2/2024 23:40:29,selesai
+DL260,PRD260,Kevinswork x Bluesville Sakka Batik,377,Budi Hartono,Jakarta-PasarMinggu-12520,15000,1/3/2024,1/3/2024 4:53:55,1/3/2024 7:05:00,1/3/2024 7:05:00,selesai
+DL261,PRD261,Atlas Eceng Hi Top Sneaker White,340,Citra Dewi,Bekasi-BekasiTimur-17113,20000,1/3/2024,1/3/2024 21:32:50,1/4/2024 0:22:48,1/4/2024 0:22:48,selesai
+DL262,PRD262,Atlas Eceng Hi Top Sneaker White,337,Faisal Akbar,Depok-Cimanggis-16452,18000,1/4/2024,1/4/2024 6:06:22,1/4/2024 6:53:47,1/4/2024 6:53:47,selesai
+DL263,PRD263,Atlas Eceng Hi Top Sneaker White,275,Eka Putri,Jakarta-Kemang-12730,10000,1/5/2024,1/5/2024 18:57:39,1/5/2024 20:23:12,1/5/2024 20:23:12,selesai
+DL264,PRD264,Atlas Eceng Hi Top Sneaker White,324,Citra Dewi,Depok-Cimanggis-16452,18000,1/5/2024,1/5/2024 9:30:24,1/5/2024 12:14:14,1/5/2024 12:14:14,selesai
+DL265,PRD265,Kotta Hybrid Sneakers - Skeleton,330,Budi Hartono,Depok-Cimanggis-16452,18000,1/7/2024,1/7/2024 9:58:13,1/7/2024 12:10:25,12/30/1899 0:00:00,diperjalanan
+DL266,PRD266,Kotta Hybrid Sneakers - Skeleton,322,Faisal Akbar,Bekasi-BekasiTimur-17113,20000,1/12/2024,1/12/2024 6:48:14,1/12/2024 9:40:51,12/30/1899 0:00:00,diperjalanan
+DL267,PRD267,Kotta Hybrid Sneakers - Skeleton,380,Putra Hadi,Bogor-Baranangsiang-16143,30000,1/14/2024,1/14/2024 12:41:59,1/14/2024 16:36:43,1/14/2024 16:36:43,selesai
+DL268,PRD268,Kotta Hybrid Sneakers - Skeleton,332,Budi Hartono,Jakarta-Kemang-12730,10000,1/17/2024,1/17/2024 19:33:37,1/17/2024 20:39:28,1/17/2024 20:39:28,selesai
+DL269,PRD269,Tiga Slip-On Sneakers - Cerulean Blue,340,Kevin Akbar,Bekasi-BekasiTimur-17113,20000,1/18/2024,1/18/2024 6:36:34,1/18/2024 9:29:01,1/18/2024 9:29:01,selesai
+DL270,PRD270,Tiga Slip-On Sneakers - Cerulean Blue,363,Deni Setiawan,Tangerang-Serpong-15310,25000,1/19/2024,1/19/2024 18:16:55,1/19/2024 21:19:19,1/19/2024 21:19:19,selesai
+DL271,PRD271,Tiga Slip-On Sneakers - Cerulean Blue,396,Kevin Akbar,Jakarta-Kemang-12730,10000,1/20/2024,1/20/2024 0:45:56,1/20/2024 2:01:43,1/20/2024 2:01:43,selesai
+DL272,PRD272,Saki Sneakers - Soybean,354,Putra Hadi,Jakarta-PasarMinggu-12520,15000,1/20/2024,1/20/2024 12:32:12,1/20/2024 14:49:58,1/20/2024 14:49:58,selesai
+DL273,PRD273,Saki Sneakers - Soybean,382,Kevin Akbar,Jakarta-Kemang-12730,10000,1/20/2024,1/20/2024 21:36:59,1/20/2024 23:01:21,1/20/2024 23:01:21,selesai
+DL274,PRD274,Saki Sneakers - Soybean,348,Deni Setiawan,Jakarta-PasarMinggu-12520,15000,1/22/2024,1/22/2024 7:29:54,1/22/2024 9:41:14,1/22/2024 9:41:14,selesai
+DL275,PRD275,Saki Sneakers - Soybean,319,Faisal Akbar,Bogor-Baranangsiang-16143,30000,1/25/2024,1/25/2024 20:41:50,1/25/2024 21:11:45,12/30/1899 0:00:00,diperjalanan
+DL276,PRD276,Kotta Hybrid Sneakers - Skeleton,356,Citra Dewi,Depok-Cimanggis-16452,18000,1/25/2024,1/25/2024 21:42:34,1/26/2024 0:16:17,1/26/2024 0:16:17,selesai
+DL277,PRD277,Kotta Hybrid Sneakers - Skeleton,347,Eka Putri,Tangerang-Serpong-15310,25000,1/27/2024,1/27/2024 11:59:40,1/27/2024 15:16:29,1/27/2024 15:16:29,selesai
+DL278,PRD278,Atlas Sneaker White,342,Eka Putri,Tangerang-Serpong-15310,25000,1/29/2024,1/29/2024 20:00:39,1/29/2024 20:01:42,12/30/1899 0:00:00,diperjalanan
+DL279,PRD279,Atlas Sneaker White,367,Kevin Akbar,Jakarta-Kemang-12730,10000,1/29/2024,1/29/2024 2:09:57,1/29/2024 2:34:18,12/30/1899 0:00:00,diperjalanan
+DL280,PRD280,Atlas Sneaker White,358,Deni Setiawan,Tangerang-Serpong-15310,25000,2/4/2024,2/4/2024 19:07:46,2/4/2024 21:49:25,12/30/1899 0:00:00,diperjalanan
+DL281,PRD281,Saki Sneakers - Soybean,358,Adi Pratama,Bekasi-BekasiTimur-17113,20000,2/6/2024,2/6/2024 12:05:39,2/6/2024 14:56:57,2/6/2024 14:56:57,selesai
+DL282,PRD282,Kotta Hybrid Sneakers - Skeleton,381,Citra Dewi,Jakarta-Kemang-12730,10000,2/7/2024,2/7/2024 17:51:21,2/7/2024 18:00:05,12/30/1899 0:00:00,diperjalanan
+DL283,PRD283,Kotta Hybrid Sneakers - Skeleton,409,Putra Hadi,Tangerang-Serpong-15310,25000,2/7/2024,2/7/2024 10:42:47,2/7/2024 13:51:59,2/7/2024 13:51:59,selesai
+DL284,PRD284,Tiga Slip-On Sneakers - Cerulean Blue,367,Putra Hadi,Jakarta-Kemang-12730,10000,2/8/2024,2/8/2024 0:19:52,2/8/2024 0:26:13,12/30/1899 0:00:00,diperjalanan
+DL285,PRD285,Tiga Slip-On Sneakers - Cerulean Blue,407,Budi Hartono,Depok-Cimanggis-16452,18000,2/12/2024,2/12/2024 3:40:38,2/12/2024 4:56:21,12/30/1899 0:00:00,diperjalanan
+DL286,PRD286,Tiga Slip-On Sneakers - Cerulean Blue,329,Putra Hadi,Jakarta-PasarMinggu-12520,15000,2/13/2024,2/13/2024 13:56:39,2/13/2024 16:07:06,2/13/2024 16:07:06,selesai
+DL287,PRD287,Tiga Slip-On Sneakers - Cerulean Blue,342,Budi Hartono,Bogor-Baranangsiang-16143,30000,2/14/2024,2/14/2024 19:18:13,2/14/2024 19:40:07,12/30/1899 0:00:00,diperjalanan
+DL288,PRD288,Kevinswork x Bluesville Sakka Batik,368,Putra Hadi,Depok-Cimanggis-16452,18000,2/16/2024,2/16/2024 23:34:59,2/17/2024 2:05:49,2/17/2024 2:05:49,selesai
+DL289,PRD289,Kevinswork x Bluesville Sakka Batik,358,Putra Hadi,Bogor-Baranangsiang-16143,30000,2/16/2024,2/16/2024 8:22:25,2/16/2024 11:37:28,12/30/1899 0:00:00,diperjalanan
+DL290,PRD290,Kevinswork x Bluesville Sakka Batik,351,Budi Hartono,Bogor-Baranangsiang-16143,30000,2/22/2024,2/22/2024 18:11:00,2/22/2024 19:27:03,12/30/1899 0:00:00,diperjalanan
+DL291,PRD291,Kevinswork x Bluesville Sakka Batik,372,Citra Dewi,Bekasi-BekasiTimur-17113,20000,2/22/2024,2/22/2024 17:51:59,2/22/2024 20:35:17,2/22/2024 20:35:17,selesai
+DL292,PRD292,Atlas Eceng Hi Top Sneaker White,366,Citra Dewi,Bogor-Baranangsiang-16143,30000,2/23/2024,2/23/2024 16:35:23,2/23/2024 20:31:00,2/23/2024 20:31:00,selesai
+DL293,PRD293,Atlas Eceng Hi Top Sneaker White,357,Deni Setiawan,Depok-Cimanggis-16452,18000,2/24/2024,2/24/2024 4:33:56,2/24/2024 6:04:17,12/30/1899 0:00:00,diperjalanan
+DL294,PRD294,Atlas Eceng Hi Top Sneaker White,394,Eka Putri,Bogor-Baranangsiang-16143,30000,2/25/2024,2/25/2024 0:15:39,2/25/2024 3:08:50,12/30/1899 0:00:00,diperjalanan
+DL295,PRD295,Atlas Eceng Hi Top Sneaker White,400,Budi Hartono,Tangerang-Serpong-15310,25000,2/25/2024,2/25/2024 14:54:12,2/25/2024 17:40:44,12/30/1899 0:00:00,diperjalanan
+DL296,PRD296,Tiga Slip-On Sneakers - Cerulean Blue,385,Putra Hadi,Tangerang-Serpong-15310,25000,2/25/2024,2/25/2024 15:02:02,2/25/2024 18:05:43,12/30/1899 0:00:00,diperjalanan
+DL297,PRD297,Tiga Slip-On Sneakers - Cerulean Blue,398,Adi Pratama,Bogor-Baranangsiang-16143,30000,2/26/2024,2/26/2024 18:09:19,2/26/2024 21:59:19,2/26/2024 21:59:19,selesai
+DL298,PRD298,Tiga Slip-On Sneakers - Cerulean Blue,373,Faisal Akbar,Bogor-Baranangsiang-16143,30000,2/26/2024,2/26/2024 2:19:15,2/26/2024 6:01:53,2/26/2024 6:01:53,selesai
+DL299,PRD299,Atlas Sneaker White,367,Adi Pratama,Depok-Cimanggis-16452,18000,2/27/2024,2/27/2024 7:16:31,2/27/2024 9:33:16,2/27/2024 9:33:16,selesai
+DL300,PRD300,Atlas Sneaker White,379,Kevin Akbar,Tangerang-Serpong-15310,25000,2/28/2024,2/28/2024 7:54:52,2/28/2024 9:10:06,12/30/1899 0:00:00,diperjalanan
+DL301,PRD301,Atlas Sneaker White,352,Eka Putri,Bogor-Baranangsiang-16143,30000,2/29/2024,2/29/2024 7:00:57,2/29/2024 10:43:42,2/29/2024 10:43:42,selesai
+DL302,PRD302,Atlas Sneaker White,362,Budi Hartono,Jakarta-PasarMinggu-12520,15000,3/1/2024,3/1/2024 18:11:41,3/1/2024 20:27:32,3/1/2024 20:27:32,selesai
+DL303,PRD303,Kevinswork x Bluesville Sakka Batik,397,Kevin Akbar,Depok-Cimanggis-16452,18000,3/2/2024,3/2/2024 7:45:09,3/2/2024 8:35:55,12/30/1899 0:00:00,diperjalanan
+DL304,PRD304,Kotta Hybrid Sneakers - Skeleton,393,Putra Hadi,Depok-Cimanggis-16452,18000,3/9/2024,3/9/2024 13:27:47,3/9/2024 15:56:36,3/9/2024 15:56:36,selesai
+DL305,PRD305,Saki Sneakers - Soybean,376,Citra Dewi,Jakarta-Kemang-12730,10000,3/10/2024,3/10/2024 9:24:18,3/10/2024 10:31:02,3/10/2024 10:31:02,selesai
+DL306,PRD306,Atlas Eceng Hi Top Sneaker White,393,Kevin Akbar,Jakarta-PasarMinggu-12520,15000,3/10/2024,3/10/2024 16:14:39,3/10/2024 17:04:10,12/30/1899 0:00:00,diperjalanan
+DL307,PRD307,Atlas Eceng Hi Top Sneaker White,424,Kevin Akbar,Jakarta-Kemang-12730,10000,3/10/2024,3/10/2024 5:59:30,3/10/2024 7:24:16,3/10/2024 7:24:16,selesai
+DL308,PRD308,Saki Sneakers - Soybean,397,Adi Pratama,Jakarta-Kemang-12730,10000,3/11/2024,3/11/2024 8:17:28,3/11/2024 8:42:19,3/11/2024 8:42:19,selesai
+DL309,PRD309,Kevinswork x Bluesville Sakka Batik,403,Deni Setiawan,Jakarta-PasarMinggu-12520,15000,3/11/2024,3/11/2024 3:32:27,3/11/2024 5:54:56,3/11/2024 5:54:56,selesai
+DL310,PRD310,Tiga Slip-On Sneakers - Cerulean Blue,376,Deni Setiawan,Jakarta-Kemang-12730,10000,3/11/2024,3/11/2024 12:11:33,3/11/2024 13:24:53,3/11/2024 13:24:53,selesai
+DL311,PRD311,Atlas Eceng Hi Top Sneaker White,361,Putra Hadi,Tangerang-Serpong-15310,25000,3/16/2024,3/16/2024 23:13:57,3/17/2024 2:36:00,3/17/2024 2:36:00,selesai
+DL312,PRD312,Atlas Sneaker White,396,Faisal Akbar,Depok-Cimanggis-16452,18000,3/16/2024,3/16/2024 8:42:28,3/16/2024 11:25:13,3/16/2024 11:25:13,selesai
+DL313,PRD313,Atlas Sneaker White,386,Budi Hartono,Depok-Cimanggis-16452,18000,3/17/2024,3/17/2024 15:43:26,3/17/2024 18:07:00,3/17/2024 18:07:00,selesai
+DL314,PRD314,Atlas Sneaker White,393,Kevin Akbar,Tangerang-Serpong-15310,25000,3/20/2024,3/20/2024 20:50:08,3/21/2024 0:17:18,3/21/2024 0:17:18,selesai
+DL315,PRD315,Saki Sneakers - Soybean,415,Faisal Akbar,Bogor-Baranangsiang-16143,30000,3/21/2024,3/21/2024 11:49:13,3/21/2024 13:45:59,12/30/1899 0:00:00,diperjalanan
+DL316,PRD316,Kotta Hybrid Sneakers - Skeleton,394,Eka Putri,Jakarta-PasarMinggu-12520,15000,3/21/2024,3/21/2024 10:04:52,3/21/2024 12:05:26,3/21/2024 12:05:26,selesai
+DL317,PRD317,Atlas Eceng Hi Top Sneaker White,397,Faisal Akbar,Bogor-Baranangsiang-16143,30000,3/22/2024,3/22/2024 23:42:39,3/23/2024 3:24:29,3/23/2024 3:24:29,selesai
+DL318,PRD318,Tiga Slip-On Sneakers - Cerulean Blue,397,Eka Putri,Bekasi-BekasiTimur-17113,20000,3/25/2024,3/25/2024 14:07:42,3/25/2024 17:10:11,3/25/2024 17:10:11,selesai
+DL319,PRD319,Atlas Sneaker White,420,Deni Setiawan,Bekasi-BekasiTimur-17113,20000,3/25/2024,3/25/2024 21:29:05,3/26/2024 0:03:59,3/26/2024 0:03:59,selesai
+DL320,PRD320,Tiga Slip-On Sneakers - Cerulean Blue,414,Eka Putri,Jakarta-PasarMinggu-12520,15000,3/29/2024,3/29/2024 8:05:02,3/29/2024 10:20:08,3/29/2024 10:20:08,selesai
+DL321,PRD321,Saki Sneakers - Soybean,406,Faisal Akbar,Jakarta-Kemang-12730,10000,3/30/2024,3/30/2024 4:04:51,3/30/2024 4:50:43,3/30/2024 4:50:43,selesai
+DL322,PRD322,Kevinswork x Bluesville Sakka Batik,398,Adi Pratama,Tangerang-Serpong-15310,25000,3/31/2024,3/31/2024 4:19:34,3/31/2024 8:10:40,3/31/2024 8:10:40,selesai
+DL323,PRD323,Tiga Slip-On Sneakers - Cerulean Blue,362,Deni Setiawan,Depok-Cimanggis-16452,18000,4/2/2024,4/2/2024 0:58:18,4/2/2024 3:13:32,4/2/2024 3:13:32,selesai
+DL324,PRD324,Kotta Hybrid Sneakers - Skeleton,421,Kevin Akbar,Bogor-Baranangsiang-16143,30000,4/3/2024,4/3/2024 10:58:19,4/3/2024 12:56:20,12/30/1899 0:00:00,diperjalanan
+DL325,PRD325,Kotta Hybrid Sneakers - Skeleton,369,Deni Setiawan,Jakarta-Kemang-12730,10000,4/4/2024,4/4/2024 5:32:42,4/4/2024 6:45:41,4/4/2024 6:45:41,selesai
+DL326,PRD326,Atlas Eceng Hi Top Sneaker White,373,Citra Dewi,Jakarta-Kemang-12730,10000,4/6/2024,4/6/2024 2:09:37,4/6/2024 4:17:56,4/6/2024 4:17:56,selesai
+DL327,PRD327,Tiga Slip-On Sneakers - Cerulean Blue,423,Kevin Akbar,Depok-Cimanggis-16452,18000,4/8/2024,4/8/2024 20:30:53,4/8/2024 23:07:03,12/30/1899 0:00:00,diperjalanan
+DL328,PRD328,Kevinswork x Bluesville Sakka Batik,416,Citra Dewi,Bogor-Baranangsiang-16143,30000,4/9/2024,4/9/2024 8:20:03,4/9/2024 12:12:32,4/9/2024 12:12:32,selesai
+DL329,PRD329,Kevinswork x Bluesville Sakka Batik,406,Kevin Akbar,Bekasi-BekasiTimur-17113,20000,4/10/2024,4/10/2024 10:00:57,4/10/2024 12:47:44,4/10/2024 12:47:44,selesai
+DL330,PRD330,Kotta Hybrid Sneakers - Skeleton,421,Eka Putri,Jakarta-Kemang-12730,10000,4/13/2024,4/13/2024 14:59:16,4/13/2024 16:11:45,4/13/2024 16:11:45,selesai
+DL331,PRD331,Saki Sneakers - Soybean,425,Putra Hadi,Jakarta-Kemang-12730,10000,4/14/2024,4/14/2024 12:17:44,4/14/2024 13:19:38,4/14/2024 13:19:38,selesai
+DL332,PRD332,Atlas Eceng Hi Top Sneaker White,413,Adi Pratama,Jakarta-PasarMinggu-12520,15000,4/15/2024,4/15/2024 19:38:17,4/15/2024 20:43:17,12/30/1899 0:00:00,diperjalanan
+DL333,PRD333,Atlas Eceng Hi Top Sneaker White,416,Deni Setiawan,Depok-Cimanggis-16452,18000,4/17/2024,4/17/2024 5:19:35,4/17/2024 5:30:50,12/30/1899 0:00:00,diperjalanan
+DL334,PRD334,Saki Sneakers - Soybean,389,Citra Dewi,Bekasi-BekasiTimur-17113,20000,4/19/2024,4/19/2024 5:10:27,4/19/2024 7:54:22,4/19/2024 7:54:22,selesai
+DL335,PRD335,Kevinswork x Bluesville Sakka Batik,399,Citra Dewi,Jakarta-Kemang-12730,10000,4/20/2024,4/20/2024 19:35:48,4/20/2024 19:44:29,12/30/1899 0:00:00,diperjalanan
+DL336,PRD336,Tiga Slip-On Sneakers - Cerulean Blue,397,Budi Hartono,Bekasi-BekasiTimur-17113,20000,4/21/2024,4/21/2024 11:24:09,4/21/2024 14:16:00,4/21/2024 14:16:00,selesai
+DL337,PRD337,Atlas Eceng Hi Top Sneaker White,382,Kevin Akbar,Jakarta-PasarMinggu-12520,15000,4/21/2024,4/21/2024 16:51:03,4/21/2024 18:40:16,12/30/1899 0:00:00,diperjalanan
+DL338,PRD338,Atlas Sneaker White,396,Kevin Akbar,Jakarta-PasarMinggu-12520,15000,4/21/2024,4/21/2024 1:37:22,4/21/2024 3:41:08,4/21/2024 3:41:08,selesai
+DL339,PRD339,Atlas Sneaker White,422,Citra Dewi,Jakarta-Kemang-12730,10000,4/22/2024,4/22/2024 10:07:58,4/22/2024 11:37:01,4/22/2024 11:37:01,selesai
+DL340,PRD340,Atlas Sneaker White,405,Adi Pratama,Tangerang-Serpong-15310,25000,4/22/2024,4/22/2024 4:13:40,4/22/2024 7:36:29,4/22/2024 7:36:29,selesai
+DL341,PRD341,Saki Sneakers - Soybean,394,Putra Hadi,Jakarta-PasarMinggu-12520,15000,4/22/2024,4/22/2024 17:15:39,4/22/2024 19:02:29,12/30/1899 0:00:00,diperjalanan
+DL342,PRD342,Kotta Hybrid Sneakers - Skeleton,425,Deni Setiawan,Jakarta-PasarMinggu-12520,15000,4/23/2024,4/23/2024 14:46:11,4/23/2024 15:05:28,12/30/1899 0:00:00,diperjalanan
+DL343,PRD343,Kotta Hybrid Sneakers - Skeleton,439,Deni Setiawan,Tangerang-Serpong-15310,25000,4/23/2024,4/23/2024 6:35:45,4/23/2024 9:50:51,4/23/2024 9:50:51,selesai
+DL344,PRD344,Tiga Slip-On Sneakers - Cerulean Blue,429,Putra Hadi,Jakarta-PasarMinggu-12520,15000,4/24/2024,4/24/2024 8:03:43,4/24/2024 10:01:57,12/30/1899 0:00:00,diperjalanan
+DL345,PRD345,Tiga Slip-On Sneakers - Cerulean Blue,418,Kevin Akbar,Tangerang-Serpong-15310,25000,4/26/2024,4/26/2024 21:34:40,4/27/2024 0:37:43,4/27/2024 0:37:43,selesai
+DL346,PRD346,Tiga Slip-On Sneakers - Cerulean Blue,412,Budi Hartono,Tangerang-Serpong-15310,25000,4/26/2024,4/26/2024 2:31:20,4/26/2024 5:52:52,4/26/2024 5:52:52,selesai
+DL347,PRD347,Tiga Slip-On Sneakers - Cerulean Blue,373,Kevin Akbar,Jakarta-Kemang-12730,10000,4/27/2024,4/27/2024 2:50:07,4/27/2024 4:01:04,4/27/2024 4:01:04,selesai
+DL348,PRD348,Kevinswork x Bluesville Sakka Batik,388,Kevin Akbar,Bogor-Baranangsiang-16143,30000,4/27/2024,4/27/2024 16:55:09,4/27/2024 20:37:40,4/27/2024 20:37:40,selesai
+DL349,PRD349,Kevinswork x Bluesville Sakka Batik,394,Putra Hadi,Bogor-Baranangsiang-16143,30000,5/1/2024,5/1/2024 11:34:51,5/1/2024 12:14:18,12/30/1899 0:00:00,diperjalanan
+DL350,PRD350,Kevinswork x Bluesville Sakka Batik,408,Deni Setiawan,Bogor-Baranangsiang-16143,30000,5/3/2024,5/3/2024 5:36:03,5/3/2024 9:12:58,5/3/2024 9:12:58,selesai
+DL351,PRD351,Kevinswork x Bluesville Sakka Batik,431,Eka Putri,Jakarta-PasarMinggu-12520,15000,5/5/2024,5/5/2024 20:09:09,5/5/2024 22:38:10,5/5/2024 22:38:10,selesai
+DL352,PRD352,Atlas Eceng Hi Top Sneaker White,446,Putra Hadi,Bekasi-BekasiTimur-17113,20000,5/6/2024,5/6/2024 7:55:18,5/6/2024 10:49:54,5/6/2024 10:49:54,selesai
+DL353,PRD353,Atlas Eceng Hi Top Sneaker White,430,Citra Dewi,Bogor-Baranangsiang-16143,30000,5/11/2024,5/11/2024 20:34:09,5/11/2024 23:36:40,12/30/1899 0:00:00,diperjalanan
+DL354,PRD354,Atlas Eceng Hi Top Sneaker White,429,Citra Dewi,Jakarta-Kemang-12730,10000,5/12/2024,5/12/2024 19:01:23,5/12/2024 20:11:59,5/12/2024 20:11:59,selesai
+DL355,PRD355,Atlas Eceng Hi Top Sneaker White,445,Kevin Akbar,Bekasi-BekasiTimur-17113,20000,5/16/2024,5/16/2024 12:00:56,5/16/2024 14:37:48,5/16/2024 14:37:48,selesai
+DL356,PRD356,Tiga Slip-On Sneakers - Cerulean Blue,431,Budi Hartono,Bekasi-BekasiTimur-17113,20000,5/16/2024,5/16/2024 7:33:35,5/16/2024 10:24:48,5/16/2024 10:24:48,selesai
+DL357,PRD357,Tiga Slip-On Sneakers - Cerulean Blue,435,Budi Hartono,Jakarta-PasarMinggu-12520,15000,5/17/2024,5/17/2024 13:41:36,5/17/2024 14:03:07,12/30/1899 0:00:00,diperjalanan
+DL358,PRD358,Tiga Slip-On Sneakers - Cerulean Blue,415,Budi Hartono,Bogor-Baranangsiang-16143,30000,5/18/2024,5/18/2024 2:09:03,5/18/2024 6:06:34,5/18/2024 6:06:34,selesai
+DL359,PRD359,Atlas Sneaker White,410,Eka Putri,Jakarta-Kemang-12730,10000,5/19/2024,5/19/2024 21:40:51,5/19/2024 23:05:24,5/19/2024 23:05:24,selesai
+DL360,PRD360,Atlas Sneaker White,407,Faisal Akbar,Jakarta-PasarMinggu-12520,15000,5/20/2024,5/20/2024 16:14:44,5/20/2024 18:42:03,5/20/2024 18:42:03,selesai
+DL361,PRD361,Atlas Sneaker White,422,Deni Setiawan,Tangerang-Serpong-15310,25000,5/21/2024,5/21/2024 17:19:12,5/21/2024 17:24:25,12/30/1899 0:00:00,diperjalanan
+DL362,PRD362,Atlas Sneaker White,444,Citra Dewi,Bogor-Baranangsiang-16143,30000,5/22/2024,5/22/2024 8:13:09,5/22/2024 11:59:17,5/22/2024 11:59:17,selesai
+DL363,PRD363,Saki Sneakers - Soybean,434,Faisal Akbar,Bogor-Baranangsiang-16143,30000,5/22/2024,5/22/2024 12:27:08,5/22/2024 16:03:37,5/22/2024 16:03:37,selesai
+DL364,PRD364,Saki Sneakers - Soybean,440,Kevin Akbar,Jakarta-PasarMinggu-12520,15000,5/22/2024,5/22/2024 12:59:55,5/22/2024 15:16:04,5/22/2024 15:16:04,selesai
+DL365,PRD365,Kevinswork x Bluesville Sakka Batik,437,Adi Pratama,Bekasi-BekasiTimur-17113,20000,5/24/2024,5/24/2024 10:12:58,5/24/2024 12:02:44,12/30/1899 0:00:00,diperjalanan
+DL366,PRD366,Kevinswork x Bluesville Sakka Batik,436,Putra Hadi,Depok-Cimanggis-16452,18000,5/24/2024,5/24/2024 15:23:23,5/24/2024 17:35:36,12/30/1899 0:00:00,diperjalanan
+DL367,PRD367,Kotta Hybrid Sneakers - Skeleton,459,Putra Hadi,Depok-Cimanggis-16452,18000,5/25/2024,5/25/2024 0:06:50,5/25/2024 1:49:53,12/30/1899 0:00:00,diperjalanan
+DL368,PRD368,Saki Sneakers - Soybean,456,Adi Pratama,Bekasi-BekasiTimur-17113,20000,5/28/2024,5/28/2024 23:41:01,5/29/2024 2:37:43,5/29/2024 2:37:43,selesai
+DL369,PRD369,Atlas Eceng Hi Top Sneaker White,447,Putra Hadi,Jakarta-Kemang-12730,10000,5/29/2024,5/29/2024 17:18:51,5/29/2024 17:48:31,12/30/1899 0:00:00,diperjalanan
+DL370,PRD370,Atlas Eceng Hi Top Sneaker White,417,Faisal Akbar,Bogor-Baranangsiang-16143,30000,5/30/2024,5/30/2024 12:37:37,5/30/2024 16:19:44,5/30/2024 16:19:44,selesai
+DL371,PRD371,Saki Sneakers - Soybean,415,Putra Hadi,Bogor-Baranangsiang-16143,30000,6/1/2024,6/1/2024 19:41:18,6/1/2024 20:38:49,12/30/1899 0:00:00,diperjalanan
+DL372,PRD372,Kevinswork x Bluesville Sakka Batik,437,Adi Pratama,Bekasi-BekasiTimur-17113,20000,6/2/2024,6/2/2024 23:55:45,6/3/2024 2:37:31,6/3/2024 2:37:31,selesai
+DL373,PRD373,Tiga Slip-On Sneakers - Cerulean Blue,446,Eka Putri,Depok-Cimanggis-16452,18000,6/2/2024,6/2/2024 6:38:28,6/2/2024 9:13:21,6/2/2024 9:13:21,selesai
+DL374,PRD374,Atlas Eceng Hi Top Sneaker White,446,Budi Hartono,Jakarta-Kemang-12730,10000,6/2/2024,6/2/2024 6:34:08,6/2/2024 7:39:00,6/2/2024 7:39:00,selesai
+DL375,PRD375,Atlas Sneaker White,478,Eka Putri,Jakarta-Kemang-12730,10000,6/4/2024,6/4/2024 5:51:19,6/4/2024 6:51:37,6/4/2024 6:51:37,selesai
+DL376,PRD376,Atlas Sneaker White,432,Budi Hartono,Bekasi-BekasiTimur-17113,20000,6/7/2024,6/7/2024 17:31:37,6/7/2024 19:44:50,12/30/1899 0:00:00,diperjalanan
+DL377,PRD377,Atlas Sneaker White,450,Eka Putri,Tangerang-Serpong-15310,25000,6/8/2024,6/8/2024 12:01:04,6/8/2024 15:27:26,6/8/2024 15:27:26,selesai
+DL378,PRD378,Saki Sneakers - Soybean,454,Kevin Akbar,Jakarta-Kemang-12730,10000,6/9/2024,6/9/2024 17:33:15,6/9/2024 18:26:39,12/30/1899 0:00:00,diperjalanan
+DL379,PRD379,Kotta Hybrid Sneakers - Skeleton,498,Budi Hartono,Jakarta-Kemang-12730,10000,6/12/2024,6/12/2024 5:34:21,6/12/2024 7:02:53,6/12/2024 7:02:53,selesai
+DL380,PRD380,Atlas Eceng Hi Top Sneaker White,454,Eka Putri,Jakarta-Kemang-12730,10000,6/13/2024,6/13/2024 2:17:34,6/13/2024 3:31:30,6/13/2024 3:31:30,selesai
+DL381,PRD381,Atlas Eceng Hi Top Sneaker White,443,Putra Hadi,Bogor-Baranangsiang-16143,30000,6/16/2024,6/16/2024 3:40:19,6/16/2024 5:20:48,12/30/1899 0:00:00,diperjalanan
+DL382,PRD382,Atlas Sneaker White,430,Citra Dewi,Jakarta-Kemang-12730,10000,6/19/2024,6/19/2024 1:22:05,6/19/2024 2:22:45,12/30/1899 0:00:00,diperjalanan
+DL383,PRD383,Tiga Slip-On Sneakers - Cerulean Blue,393,Deni Setiawan,Jakarta-Kemang-12730,10000,6/19/2024,6/19/2024 3:59:24,6/19/2024 4:44:08,12/30/1899 0:00:00,diperjalanan
+DL384,PRD384,Saki Sneakers - Soybean,432,Budi Hartono,Bogor-Baranangsiang-16143,30000,6/20/2024,6/20/2024 18:59:09,6/20/2024 20:57:18,12/30/1899 0:00:00,diperjalanan
+DL385,PRD385,Kevinswork x Bluesville Sakka Batik,423,Faisal Akbar,Jakarta-Kemang-12730,10000,6/21/2024,6/21/2024 2:00:42,6/21/2024 3:22:33,6/21/2024 3:22:33,selesai
+DL386,PRD386,Tiga Slip-On Sneakers - Cerulean Blue,444,Faisal Akbar,Tangerang-Serpong-15310,25000,6/23/2024,6/23/2024 9:19:08,6/23/2024 12:32:20,6/23/2024 12:32:20,selesai
+DL387,PRD387,Kotta Hybrid Sneakers - Skeleton,461,Putra Hadi,Jakarta-Kemang-12730,10000,6/26/2024,6/26/2024 0:56:23,6/26/2024 2:21:39,12/30/1899 0:00:00,diperjalanan
+DL388,PRD388,Kotta Hybrid Sneakers - Skeleton,482,Citra Dewi,Jakarta-Kemang-12730,10000,6/30/2024,6/30/2024 6:18:26,6/30/2024 7:11:40,12/30/1899 0:00:00,diperjalanan
+DL389,PRD389,Atlas Eceng Hi Top Sneaker White,461,Faisal Akbar,Depok-Cimanggis-16452,18000,6/30/2024,6/30/2024 5:19:07,6/30/2024 7:51:18,6/30/2024 7:51:18,selesai
+DL390,PRD390,Tiga Slip-On Sneakers - Cerulean Blue,453,Citra Dewi,Bekasi-BekasiTimur-17113,20000,7/1/2024,7/1/2024 3:37:07,7/1/2024 6:34:51,7/1/2024 6:34:51,selesai
+DL391,PRD391,Kevinswork x Bluesville Sakka Batik,462,Eka Putri,Tangerang-Serpong-15310,25000,7/3/2024,7/3/2024 14:28:05,7/3/2024 14:56:02,12/30/1899 0:00:00,diperjalanan
+DL392,PRD392,Kevinswork x Bluesville Sakka Batik,484,Adi Pratama,Tangerang-Serpong-15310,25000,7/3/2024,7/3/2024 3:14:30,7/3/2024 6:19:45,7/3/2024 6:19:45,selesai
+DL393,PRD393,Kotta Hybrid Sneakers - Skeleton,445,Citra Dewi,Bekasi-BekasiTimur-17113,20000,7/5/2024,7/5/2024 7:56:35,7/5/2024 10:30:50,7/5/2024 10:30:50,selesai
+DL394,PRD394,Saki Sneakers - Soybean,477,Eka Putri,Bogor-Baranangsiang-16143,30000,7/7/2024,7/7/2024 7:13:09,7/7/2024 11:07:14,7/7/2024 11:07:14,selesai
+DL395,PRD395,Atlas Eceng Hi Top Sneaker White,453,Kevin Akbar,Bekasi-BekasiTimur-17113,20000,7/7/2024,7/7/2024 11:34:41,7/7/2024 14:28:47,7/7/2024 14:28:47,selesai
+DL396,PRD396,Atlas Eceng Hi Top Sneaker White,443,Putra Hadi,Bogor-Baranangsiang-16143,30000,7/8/2024,7/8/2024 17:42:05,7/8/2024 21:26:14,7/8/2024 21:26:14,selesai
+DL397,PRD397,Saki Sneakers - Soybean,419,Budi Hartono,Tangerang-Serpong-15310,25000,7/8/2024,7/8/2024 10:38:52,7/8/2024 13:56:48,7/8/2024 13:56:48,selesai
+DL398,PRD398,Kevinswork x Bluesville Sakka Batik,472,Deni Setiawan,Bekasi-BekasiTimur-17113,20000,7/10/2024,7/10/2024 3:02:34,7/10/2024 5:49:05,7/10/2024 5:49:05,selesai
+DL399,PRD399,Tiga Slip-On Sneakers - Cerulean Blue,465,Adi Pratama,Jakarta-PasarMinggu-12520,15000,7/10/2024,7/10/2024 16:27:02,7/10/2024 18:50:35,7/10/2024 18:50:35,selesai
+DL400,PRD400,Atlas Eceng Hi Top Sneaker White,483,Putra Hadi,Jakarta-PasarMinggu-12520,15000,7/13/2024,7/13/2024 23:47:12,7/14/2024 2:17:34,12/30/1899 0:00:00,diperjalanan
+DL401,PRD401,Atlas Sneaker White,433,Faisal Akbar,Depok-Cimanggis-16452,18000,7/14/2024,7/14/2024 17:54:17,7/14/2024 20:09:27,7/14/2024 20:09:27,selesai
+DL402,PRD402,Atlas Sneaker White,463,Citra Dewi,Bogor-Baranangsiang-16143,30000,7/15/2024,7/15/2024 1:59:26,7/15/2024 5:33:33,7/15/2024 5:33:33,selesai
+DL403,PRD403,Atlas Sneaker White,486,Eka Putri,Jakarta-Kemang-12730,10000,7/17/2024,7/17/2024 14:09:53,7/17/2024 15:10:37,7/17/2024 15:10:37,selesai
+DL404,PRD404,Saki Sneakers - Soybean,487,Deni Setiawan,Depok-Cimanggis-16452,18000,7/20/2024,7/20/2024 16:39:37,7/20/2024 19:03:23,7/20/2024 19:03:23,selesai
+DL405,PRD405,Kotta Hybrid Sneakers - Skeleton,469,Citra Dewi,Bekasi-BekasiTimur-17113,20000,7/21/2024,7/21/2024 15:06:37,7/21/2024 15:07:52,12/30/1899 0:00:00,diperjalanan
+DL406,PRD406,Atlas Eceng Hi Top Sneaker White,469,Citra Dewi,Tangerang-Serpong-15310,25000,7/23/2024,7/23/2024 6:31:11,7/23/2024 8:34:47,7/23/2024 8:34:47,selesai
+DL407,PRD407,Tiga Slip-On Sneakers - Cerulean Blue,429,Eka Putri,Jakarta-Kemang-12730,10000,7/23/2024,7/23/2024 20:14:31,7/23/2024 21:16:29,7/23/2024 21:16:29,selesai
+DL408,PRD408,Atlas Sneaker White,458,Adi Pratama,Bogor-Baranangsiang-16143,30000,7/24/2024,7/24/2024 18:28:45,7/24/2024 22:27:31,7/24/2024 22:27:31,selesai
+DL409,PRD409,Tiga Slip-On Sneakers - Cerulean Blue,457,Adi Pratama,Bekasi-BekasiTimur-17113,20000,8/1/2024,8/1/2024 23:58:01,8/2/2024 2:36:02,8/2/2024 2:36:02,selesai
+DL410,PRD410,Saki Sneakers - Soybean,469,Deni Setiawan,Jakarta-Kemang-12730,10000,8/2/2024,8/2/2024 4:39:03,8/2/2024 5:02:02,8/2/2024 5:02:02,selesai
+DL411,PRD411,Kevinswork x Bluesville Sakka Batik,487,Citra Dewi,Bekasi-BekasiTimur-17113,20000,8/2/2024,8/2/2024 17:13:49,8/2/2024 19:55:09,8/2/2024 19:55:09,selesai
+DL412,PRD412,Tiga Slip-On Sneakers - Cerulean Blue,457,Adi Pratama,Bogor-Baranangsiang-16143,30000,8/7/2024,8/7/2024 17:43:45,8/7/2024 21:39:18,8/7/2024 21:39:18,selesai
+DL413,PRD413,Kotta Hybrid Sneakers - Skeleton,444,Deni Setiawan,Tangerang-Serpong-15310,25000,8/14/2024,8/14/2024 3:43:24,8/14/2024 6:39:59,12/30/1899 0:00:00,diperjalanan
+DL414,PRD414,Kotta Hybrid Sneakers - Skeleton,501,Budi Hartono,Tangerang-Serpong-15310,25000,8/14/2024,8/14/2024 1:10:34,8/14/2024 4:20:29,8/14/2024 4:20:29,selesai
+DL415,PRD415,Atlas Eceng Hi Top Sneaker White,501,Citra Dewi,Bogor-Baranangsiang-16143,30000,8/15/2024,8/15/2024 6:47:04,8/15/2024 10:25:50,8/15/2024 10:25:50,selesai
+DL416,PRD416,Tiga Slip-On Sneakers - Cerulean Blue,485,Deni Setiawan,Bogor-Baranangsiang-16143,30000,8/19/2024,8/19/2024 21:42:35,8/20/2024 1:26:50,8/20/2024 1:26:50,selesai
+DL417,PRD417,Kevinswork x Bluesville Sakka Batik,509,Deni Setiawan,Jakarta-Kemang-12730,10000,8/20/2024,8/20/2024 8:37:38,8/20/2024 9:55:55,8/20/2024 9:55:55,selesai
+DL418,PRD418,Kevinswork x Bluesville Sakka Batik,471,Deni Setiawan,Bekasi-BekasiTimur-17113,20000,8/24/2024,8/24/2024 11:18:38,8/24/2024 14:22:39,8/24/2024 14:22:39,selesai
+DL419,PRD419,Kotta Hybrid Sneakers - Skeleton,473,Deni Setiawan,Bekasi-BekasiTimur-17113,20000,8/24/2024,8/24/2024 0:23:03,8/24/2024 3:15:25,8/24/2024 3:15:25,selesai
+DL420,PRD420,Saki Sneakers - Soybean,471,Faisal Akbar,Depok-Cimanggis-16452,18000,8/29/2024,8/29/2024 11:57:54,8/29/2024 14:41:23,8/29/2024 14:41:23,selesai
+DL421,PRD421,Atlas Eceng Hi Top Sneaker White,496,Citra Dewi,Depok-Cimanggis-16452,18000,8/29/2024,8/29/2024 0:10:11,8/29/2024 2:50:48,8/29/2024 2:50:48,selesai
+DL422,PRD422,Atlas Eceng Hi Top Sneaker White,498,Eka Putri,Jakarta-Kemang-12730,10000,8/30/2024,8/30/2024 22:10:00,8/30/2024 23:37:53,8/30/2024 23:37:53,selesai
+DL423,PRD423,Saki Sneakers - Soybean,483,Eka Putri,Jakarta-PasarMinggu-12520,15000,9/1/2024,9/1/2024 3:35:37,9/1/2024 6:02:50,9/1/2024 6:02:50,selesai
+DL424,PRD424,Kevinswork x Bluesville Sakka Batik,499,Faisal Akbar,Jakarta-PasarMinggu-12520,15000,9/4/2024,9/4/2024 1:52:01,9/4/2024 3:52:48,9/4/2024 3:52:48,selesai
+DL425,PRD425,Tiga Slip-On Sneakers - Cerulean Blue,487,Citra Dewi,Tangerang-Serpong-15310,25000,9/4/2024,9/4/2024 18:01:39,9/4/2024 21:23:03,9/4/2024 21:23:03,selesai
+DL426,PRD426,Atlas Eceng Hi Top Sneaker White,513,Budi Hartono,Jakarta-PasarMinggu-12520,15000,9/6/2024,9/6/2024 15:06:20,9/6/2024 16:34:57,12/30/1899 0:00:00,diperjalanan
+DL427,PRD427,Atlas Sneaker White,491,Adi Pratama,Bogor-Baranangsiang-16143,30000,9/8/2024,9/8/2024 20:34:36,9/8/2024 21:17:27,12/30/1899 0:00:00,diperjalanan
+DL428,PRD428,Atlas Sneaker White,517,Putra Hadi,Jakarta-Kemang-12730,10000,9/12/2024,9/12/2024 5:01:20,9/12/2024 5:53:18,12/30/1899 0:00:00,diperjalanan
+DL429,PRD429,Atlas Sneaker White,511,Citra Dewi,Tangerang-Serpong-15310,25000,9/13/2024,9/13/2024 14:15:08,9/13/2024 17:26:28,9/13/2024 17:26:28,selesai
+DL430,PRD430,Saki Sneakers - Soybean,453,Kevin Akbar,Tangerang-Serpong-15310,25000,9/18/2024,9/18/2024 3:37:16,9/18/2024 7:00:22,9/18/2024 7:00:22,selesai
+DL431,PRD431,Kotta Hybrid Sneakers - Skeleton,447,Adi Pratama,Depok-Cimanggis-16452,18000,9/22/2024,9/22/2024 2:11:21,9/22/2024 3:35:54,9/22/2024 3:35:54,selesai
+DL432,PRD432,Atlas Eceng Hi Top Sneaker White,449,Deni Setiawan,Bekasi-BekasiTimur-17113,20000,9/23/2024,9/23/2024 9:33:02,9/23/2024 12:34:59,9/23/2024 12:34:59,selesai
+DL433,PRD433,Atlas Eceng Hi Top Sneaker White,471,Deni Setiawan,Bekasi-BekasiTimur-17113,20000,9/24/2024,9/24/2024 12:18:59,9/24/2024 15:09:06,9/24/2024 15:09:06,selesai
+DL434,PRD434,Atlas Eceng Hi Top Sneaker White,492,Budi Hartono,Tangerang-Serpong-15310,25000,9/24/2024,9/24/2024 18:09:18,9/24/2024 21:33:53,9/24/2024 21:33:53,selesai
+DL435,PRD435,Atlas Eceng Hi Top Sneaker White,519,Budi Hartono,Tangerang-Serpong-15310,25000,9/24/2024,9/24/2024 11:25:37,9/24/2024 14:30:55,9/24/2024 14:30:55,selesai
+DL436,PRD436,Kotta Hybrid Sneakers - Skeleton,496,Faisal Akbar,Bogor-Baranangsiang-16143,30000,9/25/2024,9/25/2024 7:53:25,9/25/2024 11:45:39,9/25/2024 11:45:39,selesai
+DL437,PRD437,Kotta Hybrid Sneakers - Skeleton,512,Eka Putri,Tangerang-Serpong-15310,25000,9/26/2024,9/26/2024 6:22:13,9/26/2024 9:25:19,9/26/2024 9:25:19,selesai
+DL438,PRD438,Kotta Hybrid Sneakers - Skeleton,481,Adi Pratama,Jakarta-PasarMinggu-12520,15000,9/28/2024,9/28/2024 22:47:28,9/29/2024 1:06:57,9/29/2024 1:06:57,selesai
+DL439,PRD439,Kotta Hybrid Sneakers - Skeleton,490,Deni Setiawan,Jakarta-PasarMinggu-12520,15000,9/30/2024,9/30/2024 5:11:43,9/30/2024 7:22:21,9/30/2024 7:22:21,selesai
+DL440,PRD440,Tiga Slip-On Sneakers - Cerulean Blue,516,Adi Pratama,Jakarta-PasarMinggu-12520,15000,10/1/2024,10/1/2024 18:26:45,10/1/2024 18:54:20,10/1/2024 18:54:20,selesai
+DL441,PRD441,Tiga Slip-On Sneakers - Cerulean Blue,511,Putra Hadi,Bekasi-BekasiTimur-17113,20000,10/1/2024,10/1/2024 22:16:54,10/2/2024 0:37:21,12/30/1899 0:00:00,diperjalanan
+DL442,PRD442,Tiga Slip-On Sneakers - Cerulean Blue,489,Budi Hartono,Jakarta-PasarMinggu-12520,15000,10/1/2024,10/1/2024 13:21:24,10/1/2024 15:28:49,10/1/2024 15:28:49,selesai
+DL443,PRD443,Tiga Slip-On Sneakers - Cerulean Blue,444,Kevin Akbar,Jakarta-PasarMinggu-12520,15000,10/1/2024,10/1/2024 13:34:32,10/1/2024 15:47:03,10/1/2024 15:47:03,selesai
+DL444,PRD444,Kevinswork x Bluesville Sakka Batik,489,Eka Putri,Jakarta-Kemang-12730,10000,10/7/2024,10/7/2024 15:32:47,10/7/2024 16:37:31,10/7/2024 16:37:31,selesai
+DL445,PRD445,Kevinswork x Bluesville Sakka Batik,465,Eka Putri,Tangerang-Serpong-15310,25000,10/8/2024,10/8/2024 17:01:00,10/8/2024 20:08:11,10/8/2024 20:08:11,selesai
+DL446,PRD446,Kevinswork x Bluesville Sakka Batik,502,Putra Hadi,Jakarta-Kemang-12730,10000,10/8/2024,10/8/2024 8:18:49,10/8/2024 9:36:17,10/8/2024 9:36:17,selesai
+DL447,PRD447,Kevinswork x Bluesville Sakka Batik,512,Citra Dewi,Jakarta-Kemang-12730,10000,10/9/2024,10/9/2024 16:53:46,10/9/2024 18:04:00,10/9/2024 18:04:00,selesai
+DL448,PRD448,Atlas Eceng Hi Top Sneaker White,490,Faisal Akbar,Jakarta-Kemang-12730,10000,10/11/2024,10/11/2024 6:56:47,10/11/2024 8:12:16,10/11/2024 8:12:16,selesai
+DL449,PRD449,Atlas Eceng Hi Top Sneaker White,490,Deni Setiawan,Jakarta-PasarMinggu-12520,15000,10/13/2024,10/13/2024 4:07:46,10/13/2024 6:21:17,10/13/2024 6:21:17,selesai
+DL450,PRD450,Atlas Eceng Hi Top Sneaker White,496,Faisal Akbar,Depok-Cimanggis-16452,18000,10/14/2024,10/14/2024 12:31:48,10/14/2024 14:52:26,10/14/2024 14:52:26,selesai
+DL451,PRD451,Atlas Eceng Hi Top Sneaker White,525,Kevin Akbar,Bekasi-BekasiTimur-17113,20000,10/17/2024,10/17/2024 16:29:55,10/17/2024 18:04:32,12/30/1899 0:00:00,diperjalanan
+DL452,PRD452,Tiga Slip-On Sneakers - Cerulean Blue,541,Faisal Akbar,Tangerang-Serpong-15310,25000,10/17/2024,10/17/2024 11:24:48,10/17/2024 14:44:46,10/17/2024 14:44:46,selesai
+DL453,PRD453,Tiga Slip-On Sneakers - Cerulean Blue,501,Putra Hadi,Bekasi-BekasiTimur-17113,20000,10/20/2024,10/20/2024 4:53:19,10/20/2024 7:29:22,12/30/1899 0:00:00,diperjalanan
+DL454,PRD454,Tiga Slip-On Sneakers - Cerulean Blue,507,Adi Pratama,Tangerang-Serpong-15310,25000,10/23/2024,10/23/2024 23:39:01,10/24/2024 3:05:51,10/24/2024 3:05:51,selesai
+DL455,PRD455,Atlas Sneaker White,477,Eka Putri,Tangerang-Serpong-15310,25000,10/24/2024,10/24/2024 1:40:31,10/24/2024 3:05:34,12/30/1899 0:00:00,diperjalanan
+DL456,PRD456,Atlas Sneaker White,488,Adi Pratama,Depok-Cimanggis-16452,18000,10/25/2024,10/25/2024 15:48:11,10/25/2024 18:05:58,10/25/2024 18:05:58,selesai
+DL457,PRD457,Atlas Sneaker White,493,Kevin Akbar,Jakarta-PasarMinggu-12520,15000,10/25/2024,10/25/2024 19:53:28,10/25/2024 22:11:57,10/25/2024 22:11:57,selesai
+DL458,PRD458,Tiga Slip-On Sneakers - Cerulean Blue,486,Deni Setiawan,Bekasi-BekasiTimur-17113,20000,10/29/2024,10/29/2024 8:21:21,10/29/2024 11:15:38,10/29/2024 11:15:38,selesai
+DL459,PRD459,Saki Sneakers - Soybean,508,Citra Dewi,Bogor-Baranangsiang-16143,30000,10/29/2024,10/29/2024 1:13:03,10/29/2024 5:01:30,10/29/2024 5:01:30,selesai
+DL460,PRD460,Kevinswork x Bluesville Sakka Batik,497,Budi Hartono,Jakarta-Kemang-12730,10000,10/30/2024,10/30/2024 6:54:56,10/30/2024 8:24:07,10/30/2024 8:24:07,selesai
+DL461,PRD461,Tiga Slip-On Sneakers - Cerulean Blue,537,Putra Hadi,Jakarta-Kemang-12730,10000,11/1/2024,11/1/2024 9:30:12,11/1/2024 10:31:03,11/1/2024 10:31:03,selesai
+DL462,PRD462,Kotta Hybrid Sneakers - Skeleton,523,Kevin Akbar,Jakarta-Kemang-12730,10000,11/2/2024,11/2/2024 14:57:57,11/2/2024 15:57:44,12/30/1899 0:00:00,diperjalanan
+DL463,PRD463,Kotta Hybrid Sneakers - Skeleton,526,Adi Pratama,Jakarta-Kemang-12730,10000,11/3/2024,11/3/2024 16:31:13,11/3/2024 17:59:03,11/3/2024 17:59:03,selesai
+DL464,PRD464,Atlas Eceng Hi Top Sneaker White,540,Adi Pratama,Jakarta-PasarMinggu-12520,15000,11/4/2024,11/4/2024 11:57:38,11/4/2024 12:45:57,12/30/1899 0:00:00,diperjalanan
+DL465,PRD465,Tiga Slip-On Sneakers - Cerulean Blue,524,Citra Dewi,Tangerang-Serpong-15310,25000,11/4/2024,11/4/2024 12:06:49,11/4/2024 15:06:29,12/30/1899 0:00:00,diperjalanan
+DL466,PRD466,Kevinswork x Bluesville Sakka Batik,506,Adi Pratama,Bekasi-BekasiTimur-17113,20000,11/6/2024,11/6/2024 5:58:23,11/6/2024 9:12:33,11/6/2024 9:12:33,selesai
+DL467,PRD467,Kevinswork x Bluesville Sakka Batik,505,Adi Pratama,Jakarta-Kemang-12730,10000,11/6/2024,11/6/2024 7:53:25,11/6/2024 9:13:53,11/6/2024 9:13:53,selesai
+DL468,PRD468,Kotta Hybrid Sneakers - Skeleton,522,Budi Hartono,Jakarta-Kemang-12730,10000,11/6/2024,11/6/2024 0:58:47,11/6/2024 2:22:42,11/6/2024 2:22:42,selesai
+DL469,PRD469,Saki Sneakers - Soybean,497,Eka Putri,Bogor-Baranangsiang-16143,30000,11/8/2024,11/8/2024 10:49:17,11/8/2024 14:30:46,11/8/2024 14:30:46,selesai
+DL470,PRD470,Atlas Eceng Hi Top Sneaker White,503,Budi Hartono,Bogor-Baranangsiang-16143,30000,11/11/2024,11/11/2024 8:47:06,11/11/2024 12:19:27,11/11/2024 12:19:27,selesai
+DL471,PRD471,Atlas Eceng Hi Top Sneaker White,523,Adi Pratama,Bekasi-BekasiTimur-17113,20000,11/12/2024,11/12/2024 5:27:24,11/12/2024 7:39:21,12/30/1899 0:00:00,diperjalanan
+DL472,PRD472,Saki Sneakers - Soybean,490,Eka Putri,Bekasi-BekasiTimur-17113,20000,11/12/2024,11/12/2024 19:48:24,11/12/2024 22:22:24,11/12/2024 22:22:24,selesai
+DL473,PRD473,Kevinswork x Bluesville Sakka Batik,495,Faisal Akbar,Bogor-Baranangsiang-16143,30000,11/20/2024,11/20/2024 2:41:34,11/20/2024 6:25:45,11/20/2024 6:25:45,selesai
+DL474,PRD474,Tiga Slip-On Sneakers - Cerulean Blue,553,Faisal Akbar,Bekasi-BekasiTimur-17113,20000,11/22/2024,11/22/2024 7:33:11,11/22/2024 10:20:05,11/22/2024 10:20:05,selesai
+DL475,PRD475,Atlas Eceng Hi Top Sneaker White,571,Eka Putri,Bekasi-BekasiTimur-17113,20000,11/24/2024,11/24/2024 3:37:27,11/24/2024 4:09:09,12/30/1899 0:00:00,diperjalanan
+DL476,PRD476,Atlas Sneaker White,543,Deni Setiawan,Depok-Cimanggis-16452,18000,11/25/2024,11/25/2024 19:51:10,11/25/2024 21:32:14,12/30/1899 0:00:00,diperjalanan
+DL477,PRD477,Atlas Sneaker White,544,Faisal Akbar,Bekasi-BekasiTimur-17113,20000,11/30/2024,11/30/2024 13:19:28,11/30/2024 17:06:19,11/30/2024 17:06:19,selesai
+DL478,PRD478,Atlas Sneaker White,524,Eka Putri,Depok-Cimanggis-16452,18000,12/1/2024,12/1/2024 23:11:29,12/2/2024 2:06:26,12/2/2024 2:06:26,selesai
+DL479,PRD479,Saki Sneakers - Soybean,552,Kevin Akbar,Jakarta-Kemang-12730,10000,12/3/2024,12/3/2024 3:04:35,12/3/2024 4:22:20,12/3/2024 4:22:20,selesai
+DL480,PRD480,Kotta Hybrid Sneakers - Skeleton,537,Eka Putri,Bekasi-BekasiTimur-17113,20000,12/3/2024,12/3/2024 9:27:33,12/3/2024 12:22:20,12/3/2024 12:22:20,selesai
+DL481,PRD481,Tiga Slip-On Sneakers - Cerulean Blue,513,Adi Pratama,Bogor-Baranangsiang-16143,30000,12/4/2024,12/4/2024 9:59:38,12/4/2024 13:50:39,12/4/2024 13:50:39,selesai
+DL482,PRD482,Kevinswork x Bluesville Sakka Batik,508,Adi Pratama,Bekasi-BekasiTimur-17113,20000,12/6/2024,12/6/2024 12:16:46,12/6/2024 16:12:10,12/6/2024 16:12:10,selesai
+DL483,PRD483,Kevinswork x Bluesville Sakka Batik,513,Deni Setiawan,Jakarta-Kemang-12730,10000,12/6/2024,12/6/2024 5:32:41,12/6/2024 6:20:55,12/30/1899 0:00:00,diperjalanan
+DL484,PRD484,Kevinswork x Bluesville Sakka Batik,538,Adi Pratama,Jakarta-Kemang-12730,10000,12/6/2024,12/6/2024 13:01:38,12/6/2024 13:40:57,12/30/1899 0:00:00,diperjalanan
+DL485,PRD485,Kevinswork x Bluesville Sakka Batik,516,Kevin Akbar,Depok-Cimanggis-16452,18000,12/7/2024,12/7/2024 6:46:00,12/7/2024 9:12:35,12/7/2024 9:12:35,selesai
+DL486,PRD486,Atlas Eceng Hi Top Sneaker White,521,Kevin Akbar,Jakarta-PasarMinggu-12520,15000,12/7/2024,12/7/2024 1:25:17,12/7/2024 3:50:42,12/7/2024 3:50:42,selesai
+DL487,PRD487,Atlas Eceng Hi Top Sneaker White,547,Putra Hadi,Tangerang-Serpong-15310,25000,12/12/2024,12/12/2024 0:15:05,12/12/2024 3:20:16,12/12/2024 3:20:16,selesai
+DL488,PRD488,Atlas Eceng Hi Top Sneaker White,541,Adi Pratama,Jakarta-PasarMinggu-12520,15000,12/14/2024,12/14/2024 19:54:29,12/14/2024 20:18:38,12/30/1899 0:00:00,diperjalanan
+DL489,PRD489,Atlas Eceng Hi Top Sneaker White,571,Faisal Akbar,Bekasi-BekasiTimur-17113,20000,12/16/2024,12/16/2024 22:11:31,12/17/2024 1:01:57,12/17/2024 1:01:57,selesai
+DL490,PRD490,Tiga Slip-On Sneakers - Cerulean Blue,543,Putra Hadi,Bogor-Baranangsiang-16143,30000,12/17/2024,12/17/2024 7:29:15,12/17/2024 11:09:01,12/17/2024 11:09:01,selesai
+DL491,PRD491,Tiga Slip-On Sneakers - Cerulean Blue,515,Kevin Akbar,Tangerang-Serpong-15310,25000,12/17/2024,12/17/2024 14:56:31,12/17/2024 18:09:02,12/17/2024 18:09:02,selesai
+DL492,PRD492,Atlas Sneaker White,553,Adi Pratama,Bogor-Baranangsiang-16143,30000,12/18/2024,12/18/2024 13:44:30,12/18/2024 16:43:06,12/30/1899 0:00:00,diperjalanan
+DL493,PRD493,Tiga Slip-On Sneakers - Cerulean Blue,526,Budi Hartono,Jakarta-PasarMinggu-12520,15000,12/21/2024,12/21/2024 22:47:34,12/22/2024 1:08:04,12/22/2024 1:08:04,selesai
+DL494,PRD494,Saki Sneakers - Soybean,519,Faisal Akbar,Bekasi-BekasiTimur-17113,20000,12/24/2024,12/24/2024 9:37:48,12/24/2024 12:16:27,12/24/2024 12:16:27,selesai
+DL495,PRD495,Kevinswork x Bluesville Sakka Batik,570,Budi Hartono,Bekasi-BekasiTimur-17113,20000,12/24/2024,12/24/2024 9:40:28,12/24/2024 12:19:31,12/24/2024 12:19:31,selesai
+DL496,PRD496,Tiga Slip-On Sneakers - Cerulean Blue,553,Citra Dewi,Tangerang-Serpong-15310,25000,12/25/2024,12/25/2024 11:14:10,12/25/2024 14:44:04,12/25/2024 14:44:04,selesai
+DL497,PRD497,Kotta Hybrid Sneakers - Skeleton,522,Putra Hadi,Jakarta-Kemang-12730,10000,12/29/2024,12/29/2024 18:01:46,12/29/2024 19:13:09,12/29/2024 19:13:09,selesai
+DL498,PRD498,Kotta Hybrid Sneakers - Skeleton,550,Faisal Akbar,Jakarta-PasarMinggu-12520,15000,12/29/2024,12/29/2024 11:02:51,12/29/2024 13:05:01,12/30/1899 0:00:00,diperjalanan
+DL499,PRD499,Atlas Eceng Hi Top Sneaker White,553,Eka Putri,Depok-Cimanggis-16452,18000,12/30/2024,12/30/2024 19:48:52,12/30/2024 22:31:08,12/30/2024 22:31:08,selesai
+DL500,PRD500,Tiga Slip-On Sneakers - Cerulean Blue,546,Deni Setiawan,Depok-Cimanggis-16452,18000,12/31/2024,12/31/2024 20:22:52,12/31/2024 22:30:41,12/30/1899 0:00:00,diperjalanan
