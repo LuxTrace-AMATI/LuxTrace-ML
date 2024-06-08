@@ -1,8 +1,0 @@
-#app.yaml
-runtime: python38
-
-env_variables:
-  CLOUD_SQL_USERNAME: 
-  CLOUD_SQL_PASSWORD: 
-  CLOUD_SQL_DATABASE_NAME: 
-  CLOUD_SQL_CONNECTION_NAME: amati-capstone:asia-southeast2:amati-backend
